@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" fill="#F1EFE8"/>
+  <ellipse cx="200" cy="422" rx="110" ry="12" fill="#25271F" fill-opacity="0.06"/>
+  <!-- Sleeves -->
+  <path d="M124 106 L58 242 L94 258 L134 166 Z" fill="#8C5343" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M276 106 L342 242 L306 258 L266 166 Z" fill="#8C5343" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Henley Body -->
+  <path d="M160 92 C176 110 224 110 240 92 L276 106 L268 386 L132 386 L124 106 Z" fill="#985B4A" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Henley Neck & Placket -->
+  <path d="M160 92 C176 114 224 114 240 92" stroke="#25271F" stroke-width="2"/>
+  <rect x="192" y="106" width="16" height="82" fill="#844B3C" stroke="#25271F" stroke-width="1.8"/>
+  <circle cx="200" cy="126" r="3.2" fill="#F8F7F3" stroke="#25271F" stroke-width="1.2"/>
+  <circle cx="200" cy="148" r="3.2" fill="#F8F7F3" stroke="#25271F" stroke-width="1.2"/>
+  <circle cx="200" cy="170" r="3.2" fill="#F8F7F3" stroke="#25271F" stroke-width="1.2"/>
+  <!-- Slub Waffle Texture Marks -->
+  <line x1="150" y1="210" x2="178" y2="210" stroke="#25271F" stroke-width="1" opacity="0.2"/>
+  <line x1="226" y1="255" x2="252" y2="255" stroke="#25271F" stroke-width="1" opacity="0.2"/>
+  <line x1="158" y1="305" x2="188" y2="305" stroke="#25271F" stroke-width="1" opacity="0.2"/>
+</svg>

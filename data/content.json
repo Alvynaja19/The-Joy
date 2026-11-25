@@ -1,0 +1,3069 @@
+{
+  "site_settings": {
+    "brand_name": "HEY JOEY!",
+    "slug": "hey-joey",
+    "tagline": "GAYA HARIAN DIUTAMAKAN.",
+    "announcement": "KOLEKSI PILIHAN HEY JOEY! / RATUSAN PRODUK LENGKAP TERSEDIA DI SHOPEE",
+    "whatsapp_number": "6282316185858",
+    "shopee_store_url": "https://shopee.co.id/the.joeyspace",
+    "shopee_floating_label": "Toko Shopee",
+    "skip_to_content_label": "Langsung ke konten",
+    "meta": {
+      "title": "HEY JOEY!: Koleksi Pakaian Harian & Rak Interaktif",
+      "description": "Kurasi pakaian harian terbaik dari HEY JOEY!. Telusuri koleksi unggulan langsung dari rak interaktif atau jelajahi ratusan produk lengkap di Shopee."
+    },
+    "navbar": {
+      "menu_button_label": "Menu",
+      "bag_button_label": "Tas",
+      "links": [
+        {
+          "label": "Belanja",
+          "href": "#rack"
+        },
+        {
+          "label": "Koleksi",
+          "href": "#pieces"
+        },
+        {
+          "label": "Lookbook",
+          "href": "#lookbook"
+        },
+        {
+          "label": "Tentang",
+          "href": "#story"
+        }
+      ],
+      "bag_drawer": {
+        "kicker": "PILIHAN ANDA",
+        "title": "Tas Belanja",
+        "empty_title": "Tas belanja Anda masih kosong",
+        "empty_description": "Pilih pakaian dari rak atau katalog harian untuk mulai menyusun pesanan Anda.",
+        "empty_cta": "Lihat Koleksi Harian",
+        "size_prefix": "Ukuran",
+        "subtotal_label": "Perkiraan Subtotal",
+        "checkout_notice_prefix": "[Pratinjau Katalog]",
+        "checkout_notice": "Pengiriman pesanan siap dihubungkan ke sistem checkout pembayaran atau WhatsApp toko Anda.",
+        "checkout_button": "Pesan Sekarang via WhatsApp",
+        "clear_button": "Kosongkan Pilihan",
+        "checkout_note": "Pesanan akan dikonfirmasi langsung oleh admin via WhatsApp."
+      }
+    },
+    "sections": {
+      "hero": {
+        "kicker": "• ETALASE UNGGULAN · KOLEKSI PILIHAN",
+        "title": "Pilih langsung dari rak.",
+        "subtitle": "Sepuluh koleksi unggulan HEY JOEY! yang siap Anda perhatikan lebih dekat langsung dari gantungan baju.",
+        "rail_meta_left": "10 PRODUK UNGGULAN PILIHAN STUDIO.",
+        "helper_desktop": "Arahkan kursor · Geser gantungan · Klik untuk memilih varian",
+        "helper_mobile": "Geser rak atau ketuk baju untuk memilih varian",
+        "helper_keys": "← → Untuk jelajahi",
+        "inspect_cta": "Lihat Lebih Dekat",
+        "lifted_badge": "Terangkat",
+        "initial_active_index": 4
+      },
+      "manifesto": {
+        "kicker": "LEBIH SEDIKIT, LEBIH TEPAT",
+        "headline": "Untuk hari-hari yang menjadi rutinitas Anda.",
+        "body": "Potongan yang terasa lega saat bergerak, tekstur kain yang tahan lama, dan warna yang mudah dipadukan dari pagi hingga malam."
+      },
+      "catalog": {
+        "index_label": "/ 001",
+        "kicker": "KATALOG PILIHAN",
+        "title": "Koleksi harian",
+        "search_placeholder": "Cari nama baju, kategori, atau bahan...",
+        "all_category_label": "Semua Produk",
+        "initial_visible_count": 8,
+        "load_more_step": 8,
+        "load_more_label": "Muat Lebih Banyak",
+        "categories": [
+          "Semua Produk",
+          "Atasan",
+          "Set",
+          "Jaket, Mantel, & Rompi",
+          "Celana Pendek",
+          "Celana Panjang & Legging",
+          "Pakaian Tidur & Piyama",
+          "Dress",
+          "Denim",
+          "Batik",
+          "Bawahan Muslim Wanita",
+          "Sweater & Cardigan",
+          "Kain"
+        ],
+        "new_badge_label": "Koleksi Baru",
+        "detail_button_label": "Detail",
+        "add_button_label": "Tambah (M)",
+        "added_button_label": "Ditambahkan",
+        "empty_title": "Koleksi kategori ini tersedia lengkap di Toko Shopee kami",
+        "empty_description": "Kami menampilkan produk unggulan pilihan di halaman ini agar tetap ringan dijelajahi. Lihat ratusan model, motif, dan ukuran lengkap langsung di etalase Shopee resmi HEY JOEY!.",
+        "empty_shopee_cta": "Buka Etalase Shopee HEY JOEY!",
+        "reset_filter_label": "Lihat Semua Produk Pilihan",
+        "shopee_banner_title": "Cari model lainnya? Ratusan koleksi lengkap ada di Shopee.",
+        "shopee_banner_subtitle": "Temukan seluruh katalog Atasan, Set, Dress, Denim, Batik, Piyama, hingga Bawahan Muslim dengan stok dan promo terbarui setiap hari.",
+        "shopee_banner_cta": "Lihat Semua di Toko Shopee"
+      },
+      "lookbook": {
+        "index_label": "/ 002",
+        "kicker": "SERI PADU PADAN, BAB 01",
+        "title": "Belanja per setelan",
+        "description": "Dua pilihan setelan harian yang dipadukan langsung dari koleksi kami. Lihat tiap potong pakaian atau masukkan satu setelan sekaligus ke tas.",
+        "detail_button_label": "Detail",
+        "add_button_label": "Tambah",
+        "add_full_look_label": "Tambah Setelan Lengkap",
+        "added_full_look_label": "Semua Item Ditambahkan ke Tas",
+        "looks": [
+          {
+            "id": "look-01",
+            "label": "Setelan 01: Pergi Pagi",
+            "caption": "Paduan manis tanktop polkadot beraksen renda feminin dengan celana panjang chinos berlayer renda untuk tampilan santai pagi hari.",
+            "image": "https://cf.shopee.co.id/file/id-11134207-81zte-mvhu3zn42jnr36",
+            "product_ids": [
+              "3",
+              "prod-25"
+            ]
+          },
+          {
+            "id": "look-02",
+            "label": "Setelan 02: Sore di Studio",
+            "caption": "Kardigan rajut lembut berkancing bunga dipadukan serasi dengan celana panjang semiwool berpotongan lebar untuk suasana santai sore hari.",
+            "image": "https://cf.shopee.co.id/file/id-11134201-81ztn-mvndn5uwq5u03d",
+            "product_ids": [
+              "4",
+              "prod-12"
+            ]
+          }
+        ]
+      },
+      "chapters": {
+        "index_label": "/ 003",
+        "kicker": "DUA BABAK",
+        "title": "Struktur Lembut & Warna Harian",
+        "items": [
+          {
+            "id": "soft-structure",
+            "tag": "BAB 01",
+            "badge": "BAB 01",
+            "title": "Sweater & Rajutan",
+            "subtitle": "Bahu nyaman, tekstur lembut, dan siluet rapi",
+            "description": "Pilihan kardigan rajut dan sweater berbahan lembut yang memberikan siluet feminin tanpa terasa gerah di badan.",
+            "target_category": "Sweater & Cardigan",
+            "cta_label": "LIHAT SWEATER & CARDIGAN",
+            "image": "https://cf.shopee.co.id/file/id-11134201-81zte-mv4xxbwr98uafc"
+          },
+          {
+            "id": "earthy-neutrals",
+            "tag": "BAB 02",
+            "badge": "BAB 02",
+            "title": "Atasan Harian",
+            "subtitle": "Mudah dipadukan untuk berbagai suasana",
+            "description": "Koleksi blouse katun bolong, tanktop polkadot, sabrina, dan atasan Korean feminine style dengan siluet anggun yang nyaman dipakai seharian.",
+            "target_category": "Atasan",
+            "cta_label": "LIHAT KOLEKSI ATASAN",
+            "image": "https://cf.shopee.co.id/file/id-11134201-81ztl-mv6i4rrjbdhka6"
+          }
+        ]
+      },
+      "story": {
+        "kicker": "TENTANG KAMI",
+        "headline": "Pakaian yang bernapas bersama keseharian Anda.",
+        "paragraphs": [
+          "Kami menghadirkan pakaian harian dengan pendekatan sederhana: bahan kain yang sejuk di kulit, jahitan rapi, dan potongan nyaman untuk dipakai beraktivitas seharian.",
+          "Di halaman ini kami mengkurasi produk-produk unggulan favorit pelanggan, sementara ratusan pilihan model lainnya mulai dari Atasan, Dress, Setelan, Denim, Batik, hingga Piyama selalu terbarui di toko resmi Shopee kami.",
+          "Setiap potong pakaian dipilih agar mudah dipadupadankan ke dalam lemari pakaian harian Anda tanpa repot."
+        ]
+      },
+      "newsletter": {
+        "kicker": "KOMUNITAS STUDIO",
+        "title": "Ikuti keseharian & rilisan terbaru kami.",
+        "subtitle": "Intip proses di balik layar, inspirasi padu padan busana harian, dan kabar stok ulang paling awal langsung di Instagram.",
+        "button_label": "Ikuti @the.joeyspace",
+        "instagram_url": "https://www.instagram.com/the.joeyspace",
+        "note": "Temukan inspirasi gaya dan kabar koleksi terbaru setiap minggu."
+      },
+      "product_modal": {
+        "item_prefix": "Item",
+        "collection_prefix": "KOLEKSI PILIHAN",
+        "ready_badge": "Siap Kirim",
+        "photo_caption": "Foto produk koleksi resmi HEY JOEY!",
+        "fabric_label": "Bahan Kain",
+        "fit_label": "Potongan",
+        "color_label": "Pilihan Warna",
+        "size_label": "Pilih Ukuran",
+        "qty_label": "Jumlah Pembelian",
+        "shopee_cta": "Beli di Shopee",
+        "whatsapp_cta": "Pesan via WhatsApp",
+        "save_to_bag_label": "Tambah ke Tas",
+        "saved_to_bag_label": "Item Ditambahkan ke Tas",
+        "whatsapp_direct_cta": "Pesan Langsung via WhatsApp"
+      },
+      "footer": {
+        "tagline": "Koleksi busana harian lengkap yang nyaman dipakai setiap hari.",
+        "copyright": "Hak Cipta © 2026 HEY JOEY! Studio. Seluruh hak cipta dilindungi undang-undang.",
+        "closing_note": "Dibuat untuk dipakai setiap hari, bukan untuk disimpan di dalam lemari.",
+        "nav_heading": "Navigasi",
+        "info_heading": "Informasi Pelanggan",
+        "info_items": [
+          {
+            "id": "sizing",
+            "label": "Panduan Ukuran",
+            "title": "Panduan Ukuran & Potongan Tubuh",
+            "content": "Semua ukuran diukur mendatar dalam sentimeter (cm). Ukuran S cocok untuk lingkar dada 96-100 cm, M untuk 102-106 cm, L untuk 108-112 cm, dan XL untuk 114-118 cm. Detail ukuran spesifik tiap model juga tertera di deskripsi Shopee."
+          },
+          {
+            "id": "care",
+            "label": "Perawatan Kain",
+            "title": "Cara Merawat Kain Pakaian",
+            "content": "Cuci menggunakan air dingin dengan deterjen lembut. Hindari mesin pengering suhu panas untuk pakaian rajut, batik, maupun linen: rapikan bentuk saat lembap lalu jemur di tempat teduh."
+          },
+          {
+            "id": "shipping",
+            "label": "Pengiriman & Penukaran",
+            "title": "Ketentuan Pengiriman & Penukaran",
+            "content": "Pesanan melalui Shopee maupun WhatsApp dikirim setiap hari kerja. Penukaran ukuran atau pengembalian diterima sesuai ketentuan toko selama pakaian belum dicuci dan label masih utuh."
+          },
+          {
+            "id": "privacy",
+            "label": "Kebijakan Privasi",
+            "title": "Kebijakan Privasi Pelanggan",
+            "content": "Kami hanya mencatat alamat email yang Anda daftarkan secara sukarela untuk kabar perilisan produk. Kami tidak menjual atau membagikan data pribadi Anda kepada pihak ketiga."
+          }
+        ]
+      }
+    },
+    "instagram_handle": "@the.joeyspace",
+    "instagram_url": "https://www.instagram.com/the.joeyspace"
+  },
+  "products": [
+    {
+      "id": "1",
+      "slug": "able-one-set-wanita-layer-knit-blouse-renda-pita-c",
+      "number": "01",
+      "name": "Able One Set Wanita Layer Knit Blouse Renda Pita Celana Panjang Korean Feminine Style",
+      "category": "Pakaian Tidur & Piyama",
+      "colorway": "White",
+      "price": 189000,
+      "tag_price": "Rp 189rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6i3ekraneu78",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6i3ekraneu78",
+      "rack_img": "/images/01-front.png",
+      "side_img": "/images/01-side.png",
+      "shopee_url": "https://shopee.co.id/product/1937886628/46671304148",
+      "on_rack": true,
+      "is_new": true,
+      "colors": [
+        "White",
+        "Black",
+        "Burgundy",
+        "Dusty Pink"
+      ],
+      "color_images": {
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6ieq5vfp53c9",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv6ietctukg764",
+        "Burgundy": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6iew97bpc2d3",
+        "Dusty Pink": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6iezaqn951b0"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "Potongan feminin terstruktur khas HEY JOEY!",
+      "care_note": "Cuci manual dengan air dingin, jemur di tempat teduh",
+      "description": "Koleksi unggulan Able One Set Wanita Layer Knit Blouse Renda Pita Celana Panjang Korean Feminine Style. Desain elegan dengan bahan pilihan nyaman dipakai harian."
+    },
+    {
+      "id": "2",
+      "slug": "aubre-blouse-tweed-wanita-houndstooth-kancing-bung",
+      "number": "02",
+      "name": "Aubre Blouse Tweed Wanita Houndstooth Kancing Bunga Silver Pocket Korean Feminine Style",
+      "category": "Atasan",
+      "colorway": "Pink",
+      "price": 175000,
+      "tag_price": "Rp 175rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv5wxlzmlbm173",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv5wxlzmlbm173",
+      "rack_img": "/images/02-front.png",
+      "side_img": "/images/02-side.png",
+      "shopee_url": "https://shopee.co.id/product/1937886628/44921265445",
+      "on_rack": true,
+      "is_new": true,
+      "colors": [
+        "Pink",
+        "Blue",
+        "Black"
+      ],
+      "color_images": {
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv5vgulfy1ombd",
+        "Blue": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv5vgulfzg92fd",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv5vgulg0utice"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Tweed Houndstooth Lembut",
+      "fit": "Potongan feminin terstruktur khas HEY JOEY!",
+      "care_note": "Cuci manual dengan air dingin, jemur di tempat teduh",
+      "description": "Koleksi unggulan Aubre Blouse Tweed Wanita Houndstooth Kancing Bunga Silver Pocket Korean Feminine Style. Desain elegan dengan bahan pilihan nyaman dipakai harian."
+    },
+    {
+      "id": "3",
+      "slug": "calestina-tanktop-wanita-polkadot-renda-pita-depan",
+      "number": "03",
+      "name": "Calestina Tanktop Wanita Polkadot Renda Pita Depan Smock Back Sexy Feminine Top",
+      "category": "Atasan",
+      "colorway": "Butter Yellow",
+      "price": 145000,
+      "tag_price": "Rp 145rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6lyuy464g424",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6lyuy464g424",
+      "rack_img": "/images/03-front.png",
+      "side_img": "/images/03-side.png",
+      "shopee_url": "https://shopee.co.id/product/1937886628/26897039637",
+      "on_rack": true,
+      "is_new": true,
+      "colors": [
+        "Butter Yellow",
+        "Black",
+        "White",
+        "Pink"
+      ],
+      "color_images": {
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6lowbrqneue5",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv6lowbrs1za8e",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv6lowbrtgjqda",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv6lowbruv46a8"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "Potongan feminin terstruktur khas HEY JOEY!",
+      "care_note": "Cuci manual dengan air dingin, jemur di tempat teduh",
+      "description": "Koleksi unggulan Calestina Tanktop Wanita Polkadot Renda Pita Depan Smock Back Sexy Feminine Top. Desain elegan dengan bahan pilihan nyaman dipakai harian."
+    },
+    {
+      "id": "4",
+      "slug": "camela-cardigan-rajut-wanita-kancing-bunga-korean-",
+      "number": "04",
+      "name": "Camela Cardigan Rajut Wanita Kancing Bunga Korean Style O-Neck Feminine Casual",
+      "category": "Sweater & Cardigan",
+      "colorway": "Black",
+      "price": 165000,
+      "tag_price": "Rp 165rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv4xxbwr98uafc",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv4xxbwr98uafc",
+      "rack_img": "/images/04-front.png",
+      "side_img": "/images/04-side.png",
+      "shopee_url": "https://shopee.co.id/product/1937886628/57121126121",
+      "on_rack": true,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Maroon",
+        "Grey",
+        "Cream",
+        "White",
+        "Brown"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zti-mv4xkwkg4flxaf",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv4xkwkg5u6d45",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv4xkwkg78qtf2",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv4xkwkg8nb924",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv4xkwkga1vp5f",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81zte-mv4xkwkgbgg5b0"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "Potongan feminin terstruktur khas HEY JOEY!",
+      "care_note": "Cuci manual dengan air dingin, jemur di tempat teduh",
+      "description": "Koleksi unggulan Camela Cardigan Rajut Wanita Kancing Bunga Korean Style O-Neck Feminine Casual. Desain elegan dengan bahan pilihan nyaman dipakai harian."
+    },
+    {
+      "id": "5",
+      "slug": "syerli-top-wanita-chinos-premium-cut-out-blouse-ko",
+      "number": "05",
+      "name": "Syerli Top Wanita Chinos Premium Cut Out Blouse Korean Feminine Style",
+      "category": "Atasan",
+      "colorway": "Black",
+      "price": 169000,
+      "tag_price": "Rp 169rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81ztm-mvhx3b4ewkxy84",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81ztm-mvhx3b4ewkxy84",
+      "rack_img": "/images/05-front.png",
+      "side_img": "/images/05-side.png",
+      "shopee_url": "https://shopee.co.id/product/1937886628/55121179399",
+      "on_rack": true,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Pinky Blush",
+        "Smoke",
+        "Deep Brown",
+        "Butter Yellow"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zth-mv5z5945dczm99",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv69z2cj0q9y82",
+        "Pinky Blush": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv69z2dlc3ybda",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv69z2dldiir06",
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81zti-mv69z2dlex3727",
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv69z2dlgbnnd5"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "Potongan feminin terstruktur khas HEY JOEY!",
+      "care_note": "Cuci manual dengan air dingin, jemur di tempat teduh",
+      "description": "Koleksi unggulan Syerli Top Wanita Chinos Premium Cut Out Blouse Korean Feminine Style. Desain elegan dengan bahan pilihan nyaman dipakai harian."
+    },
+    {
+      "id": "6",
+      "slug": "hosa-polo-rajut-stripe-wanita-blouse-kancing-depan",
+      "number": "06",
+      "name": "Hosa Polo Rajut Stripe Wanita Blouse Kancing Depan Korean Casual Feminine Top",
+      "category": "Sweater & Cardigan",
+      "colorway": "Brown",
+      "price": 179000,
+      "tag_price": "Rp 179rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mv523m4furya77",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mv523m4furya77",
+      "rack_img": "/images/06-front.png",
+      "side_img": "/images/06-side.png",
+      "shopee_url": "https://shopee.co.id/product/1937886628/45771252090",
+      "on_rack": true,
+      "is_new": true,
+      "colors": [
+        "Brown",
+        "Maroon",
+        "Pink",
+        "Navy"
+      ],
+      "color_images": {
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv4zghzmyo070d",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv4zghzn02kn9c",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv4zghzn1h535b",
+        "Navy": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv52gasxggeadf"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "Potongan feminin terstruktur khas HEY JOEY!",
+      "care_note": "Cuci manual dengan air dingin, jemur di tempat teduh",
+      "description": "Koleksi unggulan Hosa Polo Rajut Stripe Wanita Blouse Kancing Depan Korean Casual Feminine Top. Desain elegan dengan bahan pilihan nyaman dipakai harian."
+    },
+    {
+      "id": "7",
+      "slug": "makanzie-blouse-rajut-wanita-batwing-knit-top-kore",
+      "number": "07",
+      "name": "Makanzie Blouse Rajut Wanita Batwing Knit Top Korean Style Feminine",
+      "category": "Sweater & Cardigan",
+      "colorway": "Hitam",
+      "price": 159000,
+      "tag_price": "Rp 159rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv3praanxerq89",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv3praanxerq89",
+      "rack_img": "/images/07-front.png",
+      "side_img": "/images/07-side.png",
+      "shopee_url": "https://shopee.co.id/product/1937886628/48821132638",
+      "on_rack": true,
+      "is_new": true,
+      "colors": [
+        "Hitam",
+        "Coffe",
+        "Maroon",
+        "Abu-abu",
+        "Broken White"
+      ],
+      "color_images": {
+        "Hitam": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv3ok613pf5v58",
+        "Coffe": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv3ok613qtqb98",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv3ok613s8arfc",
+        "Abu-abu": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv3ok613tmv71e",
+        "Broken White": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv3ok613v1fn93"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "Potongan feminin terstruktur khas HEY JOEY!",
+      "care_note": "Cuci manual dengan air dingin, jemur di tempat teduh",
+      "description": "Koleksi unggulan Makanzie Blouse Rajut Wanita Batwing Knit Top Korean Style Feminine. Desain elegan dengan bahan pilihan nyaman dipakai harian."
+    },
+    {
+      "id": "8",
+      "slug": "marceli-halter-top-wanita-polkadot-halterneck-laye",
+      "number": "08",
+      "name": "Marceli Halter Top Wanita Polkadot Halterneck Layer Front Korean Feminine Style",
+      "category": "Atasan",
+      "colorway": "Butter Yellow",
+      "price": 155000,
+      "tag_price": "Rp 155rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81ztq-mvhu3zn3pwjr6d",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81ztq-mvhu3zn3pwjr6d",
+      "rack_img": "/images/08-front.png",
+      "side_img": "/images/08-side.png",
+      "shopee_url": "https://shopee.co.id/product/1937886628/51021198189",
+      "on_rack": true,
+      "is_new": true,
+      "colors": [
+        "Butter Yellow",
+        "Pink",
+        "White",
+        "Black"
+      ],
+      "color_images": {
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6iogq21ki299",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv6iogq22z2if5",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zto-mv6iogq24dmycf",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zte-mv6jrncq83yh7f"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "Potongan feminin terstruktur khas HEY JOEY!",
+      "care_note": "Cuci manual dengan air dingin, jemur di tempat teduh",
+      "description": "Koleksi unggulan Marceli Halter Top Wanita Polkadot Halterneck Layer Front Korean Feminine Style. Desain elegan dengan bahan pilihan nyaman dipakai harian."
+    },
+    {
+      "id": "9",
+      "slug": "karen-lux-top-wanita-chinos-premium-v-neck-korean-",
+      "number": "09",
+      "name": "Karen Lux Top Wanita Chinos Premium V Neck Korean Office Wear Elegant Blouse",
+      "category": "Atasan",
+      "colorway": "Deep Brown",
+      "price": 169000,
+      "tag_price": "Rp 169rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mv68s29re9s26d",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mv68s29re9s26d",
+      "rack_img": "/images/09-front.png",
+      "side_img": "/images/09-side.png",
+      "shopee_url": "https://shopee.co.id/product/1937886628/50471248795",
+      "on_rack": true,
+      "is_new": true,
+      "colors": [
+        "Deep Brown",
+        "Smoke",
+        "Pinky Blush",
+        "Butter Yellow",
+        "Black",
+        "White"
+      ],
+      "color_images": {
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv5z59454xky4b",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81zto-mv5z59456c5eed",
+        "Pinky Blush": "https://cf.shopee.co.id/file/id-11134207-81zth-mv5z59457qpuc4",
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv5z594595aa6e",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv5z5945ajuq6e",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv5z5945byf6a8"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "Potongan feminin terstruktur khas HEY JOEY!",
+      "care_note": "Cuci manual dengan air dingin, jemur di tempat teduh",
+      "description": "Koleksi unggulan Karen Lux Top Wanita Chinos Premium V Neck Korean Office Wear Elegant Blouse. Desain elegan dengan bahan pilihan nyaman dipakai harian."
+    },
+    {
+      "id": "10",
+      "slug": "sorin-sabrina-top-rajut-wanita-blouse-off-shoulder",
+      "number": "10",
+      "name": "Sorin Sabrina Top Rajut Wanita Blouse Off Shoulder Kancing Korean Feminine Style",
+      "category": "Sweater & Cardigan",
+      "colorway": "Black",
+      "price": 175000,
+      "tag_price": "Rp 175rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztp-mv4yi1ejvock8a",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztp-mv4yi1ejvock8a",
+      "rack_img": "/images/10-front.png",
+      "side_img": "/images/10-side.png",
+      "shopee_url": "https://shopee.co.id/product/1937886628/55571185140",
+      "on_rack": true,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Brown",
+        "Broken White",
+        "Pink",
+        "Maroon",
+        "Blue"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv4xkwkgcv0l43",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv4xkwkge9l1b7",
+        "Broken White": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv4yniasmmme50",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv4yniam89hdae",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv4yniam9o1td5",
+        "Blue": "https://cf.shopee.co.id/file/id-11134207-81zth-mv4yniamb2m911"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "Potongan feminin terstruktur khas HEY JOEY!",
+      "care_note": "Cuci manual dengan air dingin, jemur di tempat teduh",
+      "description": "Koleksi unggulan Sorin Sabrina Top Rajut Wanita Blouse Off Shoulder Kancing Korean Feminine Style. Desain elegan dengan bahan pilihan nyaman dipakai harian.",
+      "sideScale": 0.78,
+      "frontScale": 0.78
+    },
+    {
+      "id": "prod-11",
+      "slug": "windsor-pleateds-korean-style-feminine-one-set-wan",
+      "number": "11",
+      "name": "Windsor Pleateds Korean Style Feminine One Set Wanita Atasan Kancing Bunga Celana Panjang Greenday Freesize",
+      "category": "Set",
+      "colorway": "Cappucino",
+      "price": 348000,
+      "tag_price": "Rp 348rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81ztj-mvhu3zn3ybyf0b",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81ztj-mvhu3zn3ybyf0b",
+      "side_img": "https://cf.shopee.co.id/file/id-11134207-81ztj-mvhu3zn3ybyf0b",
+      "shopee_url": "https://shopee.co.id/product/1937886628/58171233063",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Cappucino",
+        "Mocca",
+        "Stone Grey",
+        "Blue"
+      ],
+      "color_images": {
+        "Cappucino": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv7gc8h2u1aef6",
+        "Mocca": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv7gc8h2vfuua9",
+        "Stone Grey": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv7gc8h2wufa61",
+        "Blue": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv7gc8h2y8zq02"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Pleated Crepe Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Windsor Pleateds Korean Style Feminine One Set Wanita Atasan Kancing Bunga Celana Panjang Greenday Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-12",
+      "slug": "gebriel-long-pants-semiwool-korean-style-feminine-",
+      "number": "12",
+      "name": "Gebriel Long Pants Semiwool Korean Style Feminine Celana Panjang Wanita Pleated Belt Freesize",
+      "category": "Celana Panjang & Legging",
+      "colorway": "Choco",
+      "price": 265000,
+      "tag_price": "Rp 265rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mvndn5uwq5u03d",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mvndn5uwq5u03d",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mvndn5uwq5u03d",
+      "shopee_url": "https://shopee.co.id/product/1937886628/58071755179",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Choco",
+        "Black",
+        "Grey",
+        "Brown",
+        "White"
+      ],
+      "color_images": {
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztd-mvndvja8j6kld6",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztk-mvndvu6oepdy80",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81zto-mvndvnqe0jd34c",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztn-mvndw1pul6v9c7",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvndw4hx77rd87"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Gebriel Long Pants Semiwool Korean Style Feminine Celana Panjang Wanita Pleated Belt Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-13",
+      "slug": "yeona-peplum-vest-wanita-prime-chinos-premium-kore",
+      "number": "13",
+      "name": "Yeona Peplum Vest Wanita Prime Chinos Premium Korean Feminine Elegant Top",
+      "category": "Jaket, Mantel, & Rompi",
+      "colorway": "Pinky Blush",
+      "price": 295000,
+      "tag_price": "Rp 295rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztm-mv6ap2gyi8zo87",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztm-mv6ap2gyi8zo87",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztm-mv6ap2gyi8zo87",
+      "shopee_url": "https://shopee.co.id/product/1937886628/57871199036",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Pinky Blush",
+        "Deep Brown",
+        "Butter Yellow",
+        "Black",
+        "Smoke",
+        "White"
+      ],
+      "color_images": {
+        "Pinky Blush": "https://cf.shopee.co.id/file/id-11134207-81zte-mv69z2dlhq834b",
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv69z2dlj4sja7",
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv69z2dlkjczc9",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zth-mv69z2dllxxf47",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv69z2dlnchv60",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zte-mv69z2dlor2bd4"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Yeona Peplum Vest Wanita Prime Chinos Premium Korean Feminine Elegant Top. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-14",
+      "slug": "mave-one-set-korean-style-feminine-wanita-atasan-p",
+      "number": "14",
+      "name": "Mave One Set Korean Style Feminine Wanita Atasan Pita Lengan Balon Short Pants Semiwool Stripe",
+      "category": "Set",
+      "colorway": "Black",
+      "price": 345000,
+      "tag_price": "Rp 345rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv7ge1f3xmo6c7",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv7ge1f3xmo6c7",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv7ge1f3xmo6c7",
+      "shopee_url": "https://shopee.co.id/product/1937886628/56521222906",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Maroon",
+        "Grey",
+        "Navy",
+        "Choco",
+        "Brown"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zte-mv7gc8h3yrrb16",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv7gc8h2llvqa8",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv7gc8h2n0g6a1",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv7gc8h2of0m3c",
+        "Navy": "https://cf.shopee.co.id/file/id-11134207-81zte-mv7gc8h2ptl24a",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv7gc8h2r85i47",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv7gc8h2smpy7d"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Mave One Set Korean Style Feminine Wanita Atasan Pita Lengan Balon Short Pants Semiwool Stripe. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-15",
+      "slug": "felen-long-pants-korean-style-feminine-celana-panj",
+      "number": "15",
+      "name": "Felen Long Pants Korean Style Feminine Celana Panjang Wanita Fusion Twill Elegant Freesize",
+      "category": "Bawahan Muslim Wanita",
+      "colorway": "Choco",
+      "price": 235000,
+      "tag_price": "Rp 235rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mvneyt635lol4e",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mvneyt635lol4e",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mvneyt635lol4e",
+      "shopee_url": "https://shopee.co.id/product/1937886628/56371785396",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Choco",
+        "Black",
+        "Cream",
+        "Grey",
+        "Warm Taupe",
+        "White"
+      ],
+      "color_images": {
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81zth-mvnf4qozqo7b6d",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztc-mvnf4ulyoa9ze7",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81ztn-mvnf50iuvea027",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztq-mvnf54cecnif93",
+        "Warm Taupe": "https://cf.shopee.co.id/file/id-11134207-81ztl-mvnf59xqgfer2c",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zte-mvnf5e9ro26c19"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Twill Bellano Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Felen Long Pants Korean Style Feminine Celana Panjang Wanita Fusion Twill Elegant Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-16",
+      "slug": "zemami-halterneck-knit-top-wanita-rajut-premium-ko",
+      "number": "16",
+      "name": "Zemami Halterneck Knit Top Wanita Rajut Premium Korean Style Feminine",
+      "category": "Sweater & Cardigan",
+      "colorway": "Black",
+      "price": 280000,
+      "tag_price": "Rp 280rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mv3qxwa8ej2bee",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mv3qxwa8ej2bee",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mv3qxwa8ej2bee",
+      "shopee_url": "https://shopee.co.id/product/1937886628/56171112992",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Grey",
+        "White",
+        "Maroon",
+        "Brown"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv3qh2yvk5je70",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv3qh2yvlk3u2c",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv3qh2yvmyoa17",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv3qh2yvod8qe1",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv3qh2yvprt669"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Zemami Halterneck Knit Top Wanita Rajut Premium Korean Style Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-17",
+      "slug": "short-sleeve-criza-pajama-korean-style-feminine-se",
+      "number": "17",
+      "name": "Short Sleeve Criza Pajama Korean Style Feminine Setelan Baju Tidur Wanita Saluria Freesize",
+      "category": "Pakaian Tidur & Piyama",
+      "colorway": "Blue-422",
+      "price": 245000,
+      "tag_price": "Rp 245rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv6jt4rhhkp620",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv6jt4rhhkp620",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv6jt4rhhkp620",
+      "shopee_url": "https://shopee.co.id/product/1937886628/56071223427",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Blue-422",
+        "Black",
+        "Grey",
+        "Cream"
+      ],
+      "color_images": {
+        "Blue-422": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv6kd0jvpfyi6d",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zto-mv6kd7a3jqix15",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6kdbvbwr2c7d",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6kdlx1ov0nd0"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Short Sleeve Criza Pajama Korean Style Feminine Setelan Baju Tidur Wanita Saluria Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-18",
+      "slug": "skort-tenis-mofi-korean-style-feminine-rok-celana-",
+      "number": "18",
+      "name": "Skort Tenis Mofi Korean Style Feminine Rok Celana Wanita Semiwool Stripe Freesize",
+      "category": "Celana Pendek",
+      "colorway": "Black",
+      "price": 185000,
+      "tag_price": "Rp 185rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mv9ehbaoopok74",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mv9ehbaoopok74",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mv9ehbaoopok74",
+      "shopee_url": "https://shopee.co.id/product/1937886628/55621279515",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Grey",
+        "Brown",
+        "Choco",
+        "Navy",
+        "White",
+        "Maroon"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv9elgunv1fuad",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv9elguvpdkz7f",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv9elguvqs5f7d",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv9elguvs6pve4",
+        "Navy": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv9elguvtlab55",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv9elguvuzurd9",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv9elguvwef7f9"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Skort Tenis Mofi Korean Style Feminine Rok Celana Wanita Semiwool Stripe Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-19",
+      "slug": "meyama-knit-set-wanita-3in1-rib-knit-outer-manset-",
+      "number": "19",
+      "name": "Meyama Knit Set Wanita 3in1 Rib Knit Outer Manset Celana Panjang Korean Style",
+      "category": "Set",
+      "colorway": "Choco",
+      "price": 348000,
+      "tag_price": "Rp 348rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mv52thij33lyba",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mv52thij33lyba",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mv52thij33lyba",
+      "shopee_url": "https://shopee.co.id/product/1937886628/55271177132",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Choco",
+        "Cream",
+        "White",
+        "Sage Green",
+        "Teal",
+        "Black"
+      ],
+      "color_images": {
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv51qbzy1gjs77",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv51tb8yetqge1",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zto-mv51thdlv47956",
+        "Sage Green": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv51tlg6iubl27",
+        "Teal": "https://cf.shopee.co.id/file/id-11134207-81zte-mv51tojgjoqwc3",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv52udxywjd5c7"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Meyama Knit Set Wanita 3in1 Rib Knit Outer Manset Celana Panjang Korean Style. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-20",
+      "slug": "mamiko-cardigan-rajut-wanita-kancing-depan-korean-",
+      "number": "20",
+      "name": "Mamiko Cardigan Rajut Wanita Kancing Depan Korean Style Feminine Casual",
+      "category": "Sweater & Cardigan",
+      "colorway": "Black",
+      "price": 280000,
+      "tag_price": "Rp 280rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv4zbl1xrhtz7d",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv4zbl1xrhtz7d",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv4zbl1xrhtz7d",
+      "shopee_url": "https://shopee.co.id/product/1937886628/55221131488",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Broken White",
+        "Coffe",
+        "Grey",
+        "Cream",
+        "Maroon",
+        "Navy",
+        "Denim Blue",
+        "Pink",
+        "Teracota"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zte-mv4yniamch6pde",
+        "Broken White": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv4yniamdvr568",
+        "Coffe": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv4yniamfabl44",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv4yniamgow1f4",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81zti-mv4yniami3ghc1",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv4zghzmou139a",
+        "Navy": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv4zghzmq8lj69",
+        "Denim Blue": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv4yniamji0x7b",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81zth-mv4yniamkwld5e",
+        "Teracota": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv4zghzjooar6f"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Mamiko Cardigan Rajut Wanita Kancing Depan Korean Style Feminine Casual. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-21",
+      "slug": "one-set-belmi-korean-style-feminine-wanita-atasan-",
+      "number": "21",
+      "name": "One Set Belmi Korean Style Feminine Wanita Atasan Sleeveless Rok Semiwool Polos Freesize",
+      "category": "Set",
+      "colorway": "Black",
+      "price": 348000,
+      "tag_price": "Rp 348rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztd-mv6oyxna213ad8",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztd-mv6oyxna213ad8",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztd-mv6oyxna213ad8",
+      "shopee_url": "https://shopee.co.id/product/1937886628/55171234099",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Choco",
+        "Grey",
+        "Brown"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zte-mv6n9inryzntcb",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv6n9ins0e8954",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv6n9ins1sspd3",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv6n9ins37d5aa",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6qd9rvn2mda1"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi One Set Belmi Korean Style Feminine Wanita Atasan Sleeveless Rok Semiwool Polos Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-22",
+      "slug": "aleya-peplum-top-wanita-katun-bolong-square-neck-p",
+      "number": "22",
+      "name": "Aleya Peplum Top Wanita Katun Bolong Square Neck Puff Sleeve Korean Feminine Blouse",
+      "category": "Atasan",
+      "colorway": "Black",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mv6i4rrjbdhka6",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mv6i4rrjbdhka6",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mv6i4rrjbdhka6",
+      "shopee_url": "https://shopee.co.id/product/1937886628/55121187916",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Maroon"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv6c48nnsikq19",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zti-mv6c48nntx56d0",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv6c48nnvbpm8e"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Katun Premium Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Aleya Peplum Top Wanita Katun Bolong Square Neck Puff Sleeve Korean Feminine Blouse. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-23",
+      "slug": "anderson-button-top-baju-atasan-korean-style-femin",
+      "number": "23",
+      "name": "Anderson Button Top Baju Atasan Korean Style Feminine",
+      "category": "Atasan",
+      "colorway": "",
+      "price": 391000,
+      "tag_price": "Rp 391rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mvhu0csa8i692b",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mvhu0csa8i692b",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mvhu0csa8i692b",
+      "shopee_url": "https://shopee.co.id/product/1937886628/55070950058",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [],
+      "color_images": {},
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Anderson Button Top Baju Atasan Korean Style Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-24",
+      "slug": "jaine-one-set-wanita-twill-bellano-korean-style-se",
+      "number": "24",
+      "name": "Jaine One Set Wanita Twill Bellano Korean Style Setelan Rok Feminine Elegan",
+      "category": "Set",
+      "colorway": "Black",
+      "price": 348000,
+      "tag_price": "Rp 348rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv3cl6q1quwycd",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv3cl6q1quwycd",
+      "side_img": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv3cl6q1quwycd",
+      "shopee_url": "https://shopee.co.id/product/1937886628/54871121285",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Choco",
+        "Maroon",
+        "Green",
+        "White",
+        "Blue",
+        "Cream"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv3d57nyfq4k17",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81zto-mv3d57nyh4p099",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv3d57nyij9g77",
+        "Green": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv3d57nylcec16",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv3d57nymqys90",
+        "Blue": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv3ing9ltvyc7f",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv3ing9lr2te3a"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Twill Bellano Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Jaine One Set Wanita Twill Bellano Korean Style Setelan Rok Feminine Elegan. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-25",
+      "slug": "calista-pants-chinos-layer-renda-korean-style-femi",
+      "number": "25",
+      "name": "Calista Pants Chinos Layer Renda Korean Style Feminine Long Pants Wanita Formal",
+      "category": "Celana Panjang & Legging",
+      "colorway": "White",
+      "price": 310000,
+      "tag_price": "Rp 310rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81zte-mvhu3zn42jnr36",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81zte-mvhu3zn42jnr36",
+      "side_img": "https://cf.shopee.co.id/file/id-11134207-81zte-mvhu3zn42jnr36",
+      "shopee_url": "https://shopee.co.id/product/1937886628/54821352831",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "White",
+        "Black",
+        "Deep Brown",
+        "Smoke"
+      ],
+      "color_images": {
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztc-mvc1breivabs19",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zte-mvc1bujuk4xt5f",
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81ztk-mvc1bye923noac",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81ztj-mvc1c2yqkphefe"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Calista Pants Chinos Layer Renda Korean Style Feminine Long Pants Wanita Formal. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-26",
+      "slug": "calista-one-set-vest-rib-knit-wanita-celana-cutbra",
+      "number": "26",
+      "name": "Calista One Set Vest Rib Knit Wanita Celana Cutbray Kancing Mutiara Korean Elegant",
+      "category": "Set",
+      "colorway": "Black",
+      "price": 348000,
+      "tag_price": "Rp 348rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv7ibkqjyb5tb2",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv7ibkqjyb5tb2",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv7ibkqjyb5tb2",
+      "shopee_url": "https://shopee.co.id/product/1937886628/54521232111",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Choco",
+        "Grey",
+        "Denim Blue"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv7iezjur47834",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv7iezjusiro44",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv7iezjutxc433",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81zti-mv7iezjuvbwkf1",
+        "Denim Blue": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv7iezjuwqh027"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Calista One Set Vest Rib Knit Wanita Celana Cutbray Kancing Mutiara Korean Elegant. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-27",
+      "slug": "polen-crop-shirt-wanita-polkadot-detail-renda-kanc",
+      "number": "27",
+      "name": "Polen Crop Shirt Wanita Polkadot Detail Renda Kancing Bunga Korean Feminine Blouse",
+      "category": "Atasan",
+      "colorway": "Black",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6kdjgligar75",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6kdjgligar75",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6kdjgligar75",
+      "shopee_url": "https://shopee.co.id/product/1937886628/54421191921",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6jrncpy9z5f4",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6jrncpzojl97"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Polen Crop Shirt Wanita Polkadot Detail Renda Kancing Bunga Korean Feminine Blouse. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-28",
+      "slug": "glamy-flowy-pants-fusion-twill-korean-style-femini",
+      "number": "28",
+      "name": "Glamy Flowy Pants Fusion Twill Korean Style Feminine Long Pants Wanita Elegant Layer Pita Freesize",
+      "category": "Celana Panjang & Legging",
+      "colorway": "Black",
+      "price": 265000,
+      "tag_price": "Rp 265rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mvne615xx0xz66",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mvne615xx0xz66",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mvne615xx0xz66",
+      "shopee_url": "https://shopee.co.id/product/1937886628/54321738898",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Broken White",
+        "Cream",
+        "Dark Grey",
+        "Warm Taupe",
+        "Dark Choco"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztl-mvneirl3g5qbd3",
+        "Broken White": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvneiwrubr4ad8",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81ztd-mvnej17ctrev31",
+        "Dark Grey": "https://cf.shopee.co.id/file/id-11134207-81ztn-mvnej4l5k9vu52",
+        "Warm Taupe": "https://cf.shopee.co.id/file/id-11134207-81ztj-mvnej8mqk4xy26",
+        "Dark Choco": "https://cf.shopee.co.id/file/id-11134207-81ztc-mvnejdniyakjba"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Twill Bellano Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Glamy Flowy Pants Fusion Twill Korean Style Feminine Long Pants Wanita Elegant Layer Pita Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-29",
+      "slug": "kesya-blouse-wanita-semiwool-stripe-motif-garis-ka",
+      "number": "29",
+      "name": "Kesya Blouse Wanita Semiwool Stripe Motif Garis Kancing Gold Korean Office Look",
+      "category": "Atasan",
+      "colorway": "Abu-abu",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mv3m7t3bylft31",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mv3m7t3bylft31",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zth-mv3m7t3bylft31",
+      "shopee_url": "https://shopee.co.id/product/1937886628/54271128083",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Abu-abu",
+        "Choco",
+        "Cokelat",
+        "Hitam",
+        "Maroon",
+        "Navy",
+        "Putih"
+      ],
+      "color_images": {
+        "Abu-abu": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv3mjgy9b0g96c",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv3mjgy658gaa5",
+        "Cokelat": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv3mjgy66n0q28",
+        "Hitam": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv3mjgy681l681",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81zte-mv3mjgy69g5m05",
+        "Navy": "https://cf.shopee.co.id/file/id-11134207-81zte-mv3mjgy6auq248",
+        "Putih": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv3mjgy6c9ai1e"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Kesya Blouse Wanita Semiwool Stripe Motif Garis Kancing Gold Korean Office Look. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-30",
+      "slug": "short-pants-zhiva-korean-style-feminine-skort-deni",
+      "number": "30",
+      "name": "Short Pants Zhiva Korean Style Feminine Skort Denim Rok Celana Wanita Kancing Gold Freesize",
+      "category": "Denim",
+      "colorway": "Black",
+      "price": 295000,
+      "tag_price": "Rp 295rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mvc0bznxewapaa",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mvc0bznxewapaa",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mvc0bznxewapaa",
+      "shopee_url": "https://shopee.co.id/product/1937886628/54171407702",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Navy"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztn-mvc0iwudigayf5",
+        "Navy": "https://cf.shopee.co.id/file/id-11134207-81zti-mvc0j1ovd4p4cb"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Short Pants Zhiva Korean Style Feminine Skort Denim Rok Celana Wanita Kancing Gold Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-31",
+      "slug": "anastasia-long-pants-stripe-korean-style-feminine-",
+      "number": "31",
+      "name": "Anastasia Long Pants Stripe Korean Style Feminine Celana Wanita Semiwool Formal Freesize",
+      "category": "Celana Panjang & Legging",
+      "colorway": "Black",
+      "price": 265000,
+      "tag_price": "Rp 265rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztf-mvnn7ex5h0xyd1",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztf-mvnn7ex5h0xyd1",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztf-mvnn7ex5h0xyd1",
+      "shopee_url": "https://shopee.co.id/product/1937886628/53471808899",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Navy",
+        "Choco",
+        "Grey",
+        "Brown",
+        "White"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zte-mvnm8pqa7pq964",
+        "Navy": "https://cf.shopee.co.id/file/id-11134207-81ztk-mvnngoj1j8qsb4",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztd-mvnngrwwt24n0d",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvnngw2oyl8p1a",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvnnh0whonwh9a",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztp-mvnnh6apa6f7cb"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Anastasia Long Pants Stripe Korean Style Feminine Celana Wanita Semiwool Formal Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-32",
+      "slug": "qinan-setelan-wanita-houndstooth-korean-style-atas",
+      "number": "32",
+      "name": "Qinan Setelan Wanita Houndstooth Korean Style Atasan Rok Feminine Elegant",
+      "category": "Set",
+      "colorway": "Black",
+      "price": 348000,
+      "tag_price": "Rp 348rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztq-mv4x478jeryh1e",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztq-mv4x478jeryh1e",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztq-mv4x478jeryh1e",
+      "shopee_url": "https://shopee.co.id/product/1937886628/53271196040",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Blue",
+        "Pink"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv4xkwkepv5u21",
+        "Blue": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv4xkwkg1mh146",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81zti-mv4xkwkg311h6b"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Qinan Setelan Wanita Houndstooth Korean Style Atasan Rok Feminine Elegant. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-33",
+      "slug": "camila-flower-skirt-wanita-semiwool-stripe-detail-",
+      "number": "33",
+      "name": "Camila Flower Skirt Wanita Semiwool Stripe Detail Bunga Layer Korean Feminine",
+      "category": "Bawahan Muslim Wanita",
+      "colorway": "Black",
+      "price": 235000,
+      "tag_price": "Rp 235rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81zti-mvhr7xzoary94a",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81zti-mvhr7xzoary94a",
+      "side_img": "https://cf.shopee.co.id/file/id-11134207-81zti-mvhr7xzoary94a",
+      "shopee_url": "https://shopee.co.id/product/1937886628/53021251647",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Brown"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv7iezjv55voe6",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv81h20udr0n8c",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv81h2105n2a86"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Camila Flower Skirt Wanita Semiwool Stripe Detail Bunga Layer Korean Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-34",
+      "slug": "drimira-one-set-wanita-3in1-rib-knit-outer-tanktop",
+      "number": "34",
+      "name": "Drimira One Set Wanita 3in1 Rib Knit Outer Tanktop Skort Korean Style Feminine",
+      "category": "Set",
+      "colorway": "Choco",
+      "price": 348000,
+      "tag_price": "Rp 348rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv68ued0lj475e",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv68ued0lj475e",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv68ued0lj475e",
+      "shopee_url": "https://shopee.co.id/product/1937886628/52721183795",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Choco",
+        "Sage Green",
+        "Teal",
+        "Black",
+        "Maroon"
+      ],
+      "color_images": {
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81zth-mv69950ynyfb67",
+        "Sage Green": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6999wqocna4f",
+        "Teal": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv699d9q15hg73",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv699h99v9qhd3",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81zte-mv699kx9knb5d4"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Drimira One Set Wanita 3in1 Rib Knit Outer Tanktop Skort Korean Style Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-35",
+      "slug": "gared-polkadot-tanktop-wanita-tali-pita-depan-kore",
+      "number": "35",
+      "name": "Gared Polkadot Tanktop Wanita Tali Pita Depan Korean Feminine Sleeveless Top",
+      "category": "Atasan",
+      "colorway": "Black",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6l5c8dt4ar93",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6l5c8dt4ar93",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6l5c8dt4ar93",
+      "shopee_url": "https://shopee.co.id/product/1937886628/52571271021",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Pink",
+        "Butter Yellow"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv6jrncq6pdt57",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6jrncq83y9b0",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6jrncq9iip06",
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6jrncqax3552"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Gared Polkadot Tanktop Wanita Tali Pita Depan Korean Feminine Sleeveless Top. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-36",
+      "slug": "cher-off-shoulder-blouse-wanita-katun-bolong-premi",
+      "number": "36",
+      "name": "Cher Off Shoulder Blouse Wanita Katun Bolong Premium Korean Feminine Top",
+      "category": "Atasan",
+      "colorway": "Hitam",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv3n2706lh5002",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv3n2706lh5002",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv3n2706lh5002",
+      "shopee_url": "https://shopee.co.id/product/1937886628/52271147232",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Hitam",
+        "Putih",
+        "Maroon"
+      ],
+      "color_images": {
+        "Hitam": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv3mjgy6dnuy1f",
+        "Putih": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv3mjgy6f2fe4d",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv3mjgy6ggzu03"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Katun Premium Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Cher Off Shoulder Blouse Wanita Katun Bolong Premium Korean Feminine Top. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-37",
+      "slug": "ariella-blouse-wanita-tweed-houndstooth-peplum-kan",
+      "number": "37",
+      "name": "Ariella Blouse Wanita Tweed Houndstooth Peplum Kancing Bunga Korean Feminine Top",
+      "category": "Atasan",
+      "colorway": "Black",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mv55c435roxt89",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mv55c435roxt89",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mv55c435roxt89",
+      "shopee_url": "https://shopee.co.id/product/1937886628/52221128839",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Blue",
+        "Pink"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zti-mv52gatb8avbad",
+        "Blue": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv52gatb9pfr95",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv52gatbb407f8"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Tweed Houndstooth Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Ariella Blouse Wanita Tweed Houndstooth Peplum Kancing Bunga Korean Feminine Top. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-38",
+      "slug": "twinkly-pajama-set-wanita-saluria-ruffle-kemeja-ce",
+      "number": "38",
+      "name": "Twinkly Pajama Set Wanita Saluria Ruffle Kemeja Celana Pendek Korean Casual Style",
+      "category": "Pakaian Tidur & Piyama",
+      "colorway": "Black",
+      "price": 427000,
+      "tag_price": "Rp 427rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv6jazvkfbid17",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv6jazvkfbid17",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv6jazvkfbid17",
+      "shopee_url": "https://shopee.co.id/product/1937886628/52121196314",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Blue-422",
+        "Matcha",
+        "Yellow",
+        "Pink"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv6jng85tgxweb",
+        "Blue-422": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6jnj2k4hz81f",
+        "Matcha": "https://cf.shopee.co.id/file/id-11134207-81zti-mv6jnm87hced98",
+        "Yellow": "https://cf.shopee.co.id/file/id-11134207-81zte-mv6jnp0jrq4ia3",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6jnsdp3fut94"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Twinkly Pajama Set Wanita Saluria Ruffle Kemeja Celana Pendek Korean Casual Style. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-39",
+      "slug": "carol-blouse-wanita-katun-bolong-bordir-v-neck-ren",
+      "number": "39",
+      "name": "Carol Blouse Wanita Katun Bolong Bordir V Neck Renda Kancing Mutiara Korean Feminine",
+      "category": "Atasan",
+      "colorway": "Hitam",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztd-mv6j2ianu7ev65",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztd-mv6j2ianu7ev65",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztd-mv6j2ianu7ev65",
+      "shopee_url": "https://shopee.co.id/product/1937886628/52021200722",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Hitam",
+        "Putih"
+      ],
+      "color_images": {
+        "Hitam": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6iogq1ujnu16",
+        "Putih": "https://cf.shopee.co.id/file/id-11134207-81zti-mv6iogq1vy8af6"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Katun Premium Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Carol Blouse Wanita Katun Bolong Bordir V Neck Renda Kancing Mutiara Korean Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-40",
+      "slug": "mei-mei-one-set-korean-style-feminine-wanita-atasa",
+      "number": "40",
+      "name": "Mei Mei One Set Korean Style Feminine Wanita Atasan Pita Celana Pendek Twill Freesize",
+      "category": "Set",
+      "colorway": "Blue",
+      "price": 348000,
+      "tag_price": "Rp 348rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mv6qntweh3497d",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mv6qntweh3497d",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mv6qntweh3497d",
+      "shopee_url": "https://shopee.co.id/product/1937886628/51921197275",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Blue",
+        "Black",
+        "White",
+        "Maroon",
+        "Choco"
+      ],
+      "color_images": {
+        "Blue": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv6qd9ryn8ck93",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zte-mv6qd9ryomx09b",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zte-mv6qd9ryq1hg0f",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv6qd9ryrg1wda",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv6qd9ryu96s62"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Twill Bellano Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Mei Mei One Set Korean Style Feminine Wanita Atasan Pita Celana Pendek Twill Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-41",
+      "slug": "charizta-midi-dress-wanita-polkadot-square-neck-sl",
+      "number": "41",
+      "name": "Charizta Midi Dress Wanita Polkadot Square Neck Sleeveless Elegant Feminine Dress",
+      "category": "Dress",
+      "colorway": "White",
+      "price": 290000,
+      "tag_price": "Rp 290rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zto-mv6mj5htf6km2e",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zto-mv6mj5htf6km2e",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zto-mv6mj5htf6km2e",
+      "shopee_url": "https://shopee.co.id/product/1937886628/51671266327",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "White",
+        "Black",
+        "Butter Yellow",
+        "Pink"
+      ],
+      "color_images": {
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv6mbjeklslkc9",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv6mbjekn760ae",
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv6mbjekolqg92",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv6mbjekq0aw2c"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Charizta Midi Dress Wanita Polkadot Square Neck Sleeveless Elegant Feminine Dress. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-42",
+      "slug": "halterneck-jacket-mingyu-wanita-chinos-premium-kor",
+      "number": "42",
+      "name": "Halterneck Jacket Mingyu Wanita Chinos Premium Korean Style Elegant Jacket",
+      "category": "Jaket, Mantel, & Rompi",
+      "colorway": "Black",
+      "price": 285000,
+      "tag_price": "Rp 285rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvhr7xzo55oh3e",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvhr7xzo55oh3e",
+      "side_img": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvhr7xzo55oh3e",
+      "shopee_url": "https://shopee.co.id/product/1937886628/50921026231",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Smoke",
+        "Deep Brown"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv1vjutx9w5f11",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zth-mv1vwvijnaiqf1",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv1vwvip85qe96",
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv1vwvip9kau5a"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Halterneck Jacket Mingyu Wanita Chinos Premium Korean Style Elegant Jacket. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-43",
+      "slug": "napoleon-sleeveless-vest-wanita-prime-chinos-premi",
+      "number": "43",
+      "name": "Napoleon Sleeveless Vest Wanita Prime Chinos Premium Korean Office Style",
+      "category": "Jaket, Mantel, & Rompi",
+      "colorway": "Pinky Blush",
+      "price": 285000,
+      "tag_price": "Rp 285rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztq-mv6b31t148aycf",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztq-mv6b31t148aycf",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztq-mv6b31t148aycf",
+      "shopee_url": "https://shopee.co.id/product/1937886628/50871254229",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Pinky Blush",
+        "Deep Brown",
+        "Butter Yellow",
+        "Black",
+        "Smoke",
+        "White"
+      ],
+      "color_images": {
+        "Pinky Blush": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv6bd5rsg8p0a8",
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv6bd5rshn9g38",
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6bd5rsj1twdf",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zti-mv6bd5rskgec79",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv6bd5rsluysd2",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zti-mv6bd5rsn9j869"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Napoleon Sleeveless Vest Wanita Prime Chinos Premium Korean Office Style. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-44",
+      "slug": "yemima-skort-tenis-korean-style-feminine-rok-celan",
+      "number": "44",
+      "name": "Yemima Skort Tenis Korean Style Feminine Rok Celana Wanita Chinos Premium Freesize",
+      "category": "Celana Pendek",
+      "colorway": "Butter Yellow",
+      "price": 185000,
+      "tag_price": "Rp 185rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv82xgz6q29w33",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv82xgz6q29w33",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv82xgz6q29w33",
+      "shopee_url": "https://shopee.co.id/product/1937886628/50471330798",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Butter Yellow",
+        "Deep Brown",
+        "Pinky Flush",
+        "Smoke",
+        "Black",
+        "White"
+      ],
+      "color_images": {
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81zth-mv81h21071mq60",
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81zto-mv81h2108g76d9",
+        "Pinky Flush": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv81h2109urme8",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv81h210b9c288",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv81h210cnwi9d",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv81h210e2gybb"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Yemima Skort Tenis Korean Style Feminine Rok Celana Wanita Chinos Premium Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-45",
+      "slug": "clo-skirt-wanita-semiwool-polos-buckle-belt-korean",
+      "number": "45",
+      "name": "Clo Skirt Wanita Semiwool Polos Buckle Belt Korean Style Rok Minimalis Elegan",
+      "category": "Celana Pendek",
+      "colorway": "Black",
+      "price": 185000,
+      "tag_price": "Rp 185rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztc-mv80d7ekrt3978",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztc-mv80d7ekrt3978",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztc-mv80d7ekrt3978",
+      "shopee_url": "https://shopee.co.id/product/1937886628/50171330426",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Grey",
+        "Choco",
+        "Brown"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv7iezjuy51gc6",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv7iezjuzjlwbe",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81zti-mv7iezjv0y6cca",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv7iezjv2cqsae",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv7iezjv3rb849"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Clo Skirt Wanita Semiwool Polos Buckle Belt Korean Style Rok Minimalis Elegan. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-46",
+      "slug": "bio-pleated-top-tweed-wanita-halterneck-houndstoot",
+      "number": "46",
+      "name": "Bio Pleated Top Tweed Wanita Halterneck Houndstooth Korean Style Feminine Elegan",
+      "category": "Atasan",
+      "colorway": "Black",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81ztl-mvhu3zn3spon17",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81ztl-mvhu3zn3spon17",
+      "side_img": "https://cf.shopee.co.id/file/id-11134207-81ztl-mvhu3zn3spon17",
+      "shopee_url": "https://shopee.co.id/product/1937886628/50171239512",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Blue",
+        "Pink"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv5vgul9s3yc18",
+        "Blue": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv5vgulfv8jqed",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv5vgulfwn466d"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Tweed Houndstooth Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Bio Pleated Top Tweed Wanita Halterneck Houndstooth Korean Style Feminine Elegan. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-47",
+      "slug": "elodi-midi-dress-wanita-polkadot-kancing-bunga-pit",
+      "number": "47",
+      "name": "Elodi Midi Dress Wanita Polkadot Kancing Bunga Pita Kerah Korean Feminine",
+      "category": "Dress",
+      "colorway": "Black",
+      "price": 290000,
+      "tag_price": "Rp 290rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv6mt9kj21oq87",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv6mt9kj21oq87",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv6mt9kj21oq87",
+      "shopee_url": "https://shopee.co.id/product/1937886628/49821241750",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6mbjekrevcd2",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6mbjekstfs2f"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Elodi Midi Dress Wanita Polkadot Kancing Bunga Pita Kerah Korean Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-48",
+      "slug": "corine-semiwool-stripe-pants-celana-panjang-casual",
+      "number": "48",
+      "name": "Corine Semiwool Stripe Pants Celana Panjang Casual Feminine",
+      "category": "Celana Panjang & Legging",
+      "colorway": "Choco",
+      "price": 265000,
+      "tag_price": "Rp 265rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztp-mvnm38pwx7gk22",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztp-mvnm38pwx7gk22",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztp-mvnm38pwx7gk22",
+      "shopee_url": "https://shopee.co.id/product/1937886628/49721800040",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Choco",
+        "Black",
+        "White",
+        "Grey",
+        "Maroon",
+        "Brown",
+        "Navy"
+      ],
+      "color_images": {
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztk-mvnm5l55xu693c",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztc-mvnm51d6hog8f7",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztf-mvnm69uejjly60",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztj-mvnm6t9tkmiv3b",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztn-mvnm9anyi9s878",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81zte-mvnm8pqa7pq964",
+        "Navy": "https://cf.shopee.co.id/file/id-11134207-81ztc-mvnm7xfv4buq1f"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Corine Semiwool Stripe Pants Celana Panjang Casual Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-49",
+      "slug": "skort-layer-jhesany-korean-style-feminine-rok-cela",
+      "number": "49",
+      "name": "Skort Layer Jhesany Korean Style Feminine Rok Celana Wanita Chinos Premium Gold Button Freesize",
+      "category": "Celana Pendek",
+      "colorway": "Butter Yellow",
+      "price": 245000,
+      "tag_price": "Rp 245rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81zti-mvhx3b4esd8m94",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81zti-mvhx3b4esd8m94",
+      "side_img": "https://cf.shopee.co.id/file/id-11134207-81zti-mvhx3b4esd8m94",
+      "shopee_url": "https://shopee.co.id/product/1937886628/49521402268",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Butter Yellow",
+        "Deep Brown",
+        "Pinky Blush",
+        "Smoke",
+        "Black",
+        "White"
+      ],
+      "color_images": {
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvbzcg6a6u4k99",
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81zti-mvbzcmeuqe4k90",
+        "Pinky Blush": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvbzcs9mx7uu98",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81ztq-mvbzcxhob66i41",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvbzdl6fihhfd3",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztd-mvbzdpcdtybp38"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Skort Layer Jhesany Korean Style Feminine Rok Celana Wanita Chinos Premium Gold Button Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-50",
+      "slug": "skort-sport-padel-tenis-korean-style-feminine-rok-",
+      "number": "50",
+      "name": "Skort Sport Padel Tenis Korean Style Feminine Rok Celana Wanita Pleated Ity Spandex Freesize",
+      "category": "Celana Pendek",
+      "colorway": "Dusty Pink",
+      "price": 185000,
+      "tag_price": "Rp 185rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mvbx7ivycirqe7",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mvbx7ivycirqe7",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mvbx7ivycirqe7",
+      "shopee_url": "https://shopee.co.id/product/1937886628/49321397185",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Dusty Pink",
+        "Black",
+        "Blue-422",
+        "White"
+      ],
+      "color_images": {
+        "Dusty Pink": "https://cf.shopee.co.id/file/id-11134207-81ztj-mvbxzj88jj7m10",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zti-mvbxznghrwuhdf",
+        "Blue-422": "https://cf.shopee.co.id/file/id-11134207-81ztl-mvbxzrebkm4kb3",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zte-mvbxzuythcsj43"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Pleated Crepe Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Skort Sport Padel Tenis Korean Style Feminine Rok Celana Wanita Pleated Ity Spandex Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-51",
+      "slug": "esther-blouse-wanita-katun-bolong-detail-renda-v-n",
+      "number": "51",
+      "name": "Esther Blouse Wanita Katun Bolong Detail Renda V Neck Puff Sleeve Korean Feminine Top",
+      "category": "Atasan",
+      "colorway": "Black",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mv6h3hv0ei9u27",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mv6h3hv0ei9u27",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zti-mv6h3hv0ei9u27",
+      "shopee_url": "https://shopee.co.id/product/1937886628/48821243939",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Maroon",
+        "White"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv6c48nnoave16",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv6c48nnppfub9",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zte-mv6c48nnr40aae"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Katun Premium Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Esther Blouse Wanita Katun Bolong Detail Renda V Neck Puff Sleeve Korean Feminine Top. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-52",
+      "slug": "cherril-wrapped-vest-wanita-semiwool-stripe-korean",
+      "number": "52",
+      "name": "Cherril Wrapped Vest Wanita Semiwool Stripe Korean Style Elegant Top",
+      "category": "Jaket, Mantel, & Rompi",
+      "colorway": "Abu-abu",
+      "price": 285000,
+      "tag_price": "Rp 285rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81ztq-mvhu3zn4153b4a",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81ztq-mvhu3zn4153b4a",
+      "side_img": "https://cf.shopee.co.id/file/id-11134207-81ztq-mvhu3zn4153b4a",
+      "shopee_url": "https://shopee.co.id/product/1937886628/48571183352",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Abu-abu",
+        "Choco",
+        "Cokelat",
+        "Hitam",
+        "Maroon",
+        "Navy",
+        "Putih"
+      ],
+      "color_images": {
+        "Abu-abu": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv3no6rl8lj73b",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv3mjgy6hvkadc",
+        "Cokelat": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv3no6ro0busca",
+        "Hitam": "https://cf.shopee.co.id/file/id-11134207-81zto-mv3no6rl2z9f2e",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv3no6rl4dtv92",
+        "Navy": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv3no6rl5seb80",
+        "Putih": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv3no6rl76yr97"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Cherril Wrapped Vest Wanita Semiwool Stripe Korean Style Elegant Top. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-53",
+      "slug": "palazo-pants-erika-celana-panjang-elegant-formal",
+      "number": "53",
+      "name": "Palazo Pants Erika Celana Panjang Elegant Formal",
+      "category": "Celana Panjang & Legging",
+      "colorway": "Choco",
+      "price": 265000,
+      "tag_price": "Rp 265rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mvnlbkvs270mab",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mvnlbkvs270mab",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mvnlbkvs270mab",
+      "shopee_url": "https://shopee.co.id/product/1937886628/48471853669",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Choco",
+        "Black",
+        "White",
+        "Cream",
+        "Grey",
+        "Warm Taupe"
+      ],
+      "color_images": {
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztm-mvnlgysxxyx0c9",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztn-mvnlh2az4i6ba8",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztn-mvnlh82k0jrab8",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81zte-mvnlhj6foa2t4d",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztf-mvnlhdn43rwped",
+        "Warm Taupe": "https://cf.shopee.co.id/file/id-11134207-81ztd-mvnlhzwsu4ug56"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Palazo Pants Erika Celana Panjang Elegant Formal. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-54",
+      "slug": "mamia-one-set-dress-outer-wanita-rib-knit-cardigan",
+      "number": "54",
+      "name": "Mamia One Set Dress Outer Wanita Rib Knit Cardigan Korean Style Feminine Elegant",
+      "category": "Dress",
+      "colorway": "Cherry Red",
+      "price": 290000,
+      "tag_price": "Rp 290rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztf-mv69l682mgp56d",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztf-mv69l682mgp56d",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztf-mv69l682mgp56d",
+      "shopee_url": "https://shopee.co.id/product/1937886628/48471289114",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Cherry Red",
+        "Cream",
+        "Teal",
+        "Grey",
+        "Shower",
+        "Magnolia",
+        "Black"
+      ],
+      "color_images": {
+        "Cherry Red": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv6a0p9mnnd2be",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81zto-mv6a0t22c5c5ae",
+        "Teal": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv6a0whvkiyx5a",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv6a4c13vx1f38",
+        "Shower": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6a1jeyv75t9b",
+        "Magnolia": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6a1oslwgehc5",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6a1tc6pybqbf"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Mamia One Set Dress Outer Wanita Rib Knit Cardigan Korean Style Feminine Elegant. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-55",
+      "slug": "sasha-blouse-rajut-stripe-wanita-off-shoulder-kore",
+      "number": "55",
+      "name": "Sasha Blouse Rajut Stripe Wanita Off Shoulder Korean Style Feminine Top",
+      "category": "Sweater & Cardigan",
+      "colorway": "Black",
+      "price": 320000,
+      "tag_price": "Rp 320rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81ztm-mvhu3zn3vitjcb",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81ztm-mvhu3zn3vitjcb",
+      "side_img": "https://cf.shopee.co.id/file/id-11134207-81ztm-mvhu3zn3vitjcb",
+      "shopee_url": "https://shopee.co.id/product/1937886628/48321186827",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Grey",
+        "Broken White",
+        "Coffe",
+        "Maroon"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv4zghzmrn5z7e",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv4zghzmt1qf16",
+        "Broken White": "https://cf.shopee.co.id/file/id-11134207-81zth-mv4zghzmugavd7",
+        "Coffe": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv4zghzmvuvb7f",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv4zghzmx9fr78"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Sasha Blouse Rajut Stripe Wanita Off Shoulder Korean Style Feminine Top. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-56",
+      "slug": "hustle-one-set-korean-style-feminine-wanita-atasan",
+      "number": "56",
+      "name": "Hustle One Set Korean Style Feminine Wanita Atasan Rok Semiwool Polos Setelan Fashion Freesize",
+      "category": "Set",
+      "colorway": "Black",
+      "price": 348000,
+      "tag_price": "Rp 348rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6npbsi6qyv67",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6npbsi6qyv67",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6npbsi6qyv67",
+      "shopee_url": "https://shopee.co.id/product/1937886628/48021244882",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Choco",
+        "Grey",
+        "Brown"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv6n9inrrytlf6",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6n9inrtde1b6",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztm-mv6n9inruryh55",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv6n9inrw6ixbc",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv6n9inrxl3d5d"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Hustle One Set Korean Style Feminine Wanita Atasan Rok Semiwool Polos Setelan Fashion Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-57",
+      "slug": "button-vest-bruna-wanita-semiwool-stripe-kancing-g",
+      "number": "57",
+      "name": "Button Vest Bruna Wanita Semiwool Stripe Kancing Gold Korean Office Look",
+      "category": "Jaket, Mantel, & Rompi",
+      "colorway": "Black",
+      "price": 285000,
+      "tag_price": "Rp 285rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv3c4nq0p5hhee",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv3c4nq0p5hhee",
+      "side_img": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv3c4nq0p5hhee",
+      "shopee_url": "https://shopee.co.id/product/1937886628/47621128942",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Brown",
+        "Grey",
+        "Choco",
+        "White"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv3cl6q2n5z817",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81zte-mv3cl6q1ifia31",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81zti-mv3cl6q1l8n6a3",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv3cl6q1mn7m0c",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv3cl6q1o1s2b2"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Button Vest Bruna Wanita Semiwool Stripe Kancing Gold Korean Office Look. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-58",
+      "slug": "trena-long-pants-korean-style-feminine-celana-panj",
+      "number": "58",
+      "name": "Trena Long Pants Korean Style Feminine Celana Panjang Wanita Semiwool Formal Elegant Freesize",
+      "category": "Celana Panjang & Legging",
+      "colorway": "Black",
+      "price": 265000,
+      "tag_price": "Rp 265rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mvncbn59qnsx8a",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mvncbn59qnsx8a",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztl-mvncbn59qnsx8a",
+      "shopee_url": "https://shopee.co.id/product/1937886628/47371857610",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Grey",
+        "Coklat Mahogany",
+        "White",
+        "Choco"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zti-mvnctbra7qis15",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81zte-mvnctet7usqs15",
+        "Coklat Mahogany": "https://cf.shopee.co.id/file/id-11134207-81ztq-mvnctijp12iu24",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvnctmf2rg1z3e",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztc-mvnctsdbf5dub4"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Trena Long Pants Korean Style Feminine Celana Panjang Wanita Semiwool Formal Elegant Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-59",
+      "slug": "eloise-dress-wanita-polkadot-cut-out-puff-sleeve-k",
+      "number": "59",
+      "name": "Eloise Dress Wanita Polkadot Cut Out Puff Sleeve Korean Feminine Mini Dress",
+      "category": "Dress",
+      "colorway": "Black",
+      "price": 290000,
+      "tag_price": "Rp 290rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6m8ghhlnnna3",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6m8ghhlnnna3",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6m8ghhlnnna3",
+      "shopee_url": "https://shopee.co.id/product/1937886628/47121257292",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Pink",
+        "Butter Yellow"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6lowbrw9omef",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv6lowbrxo92bd",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6lowbrz2ti2e",
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6mbjeqjax25e"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Eloise Dress Wanita Polkadot Cut Out Puff Sleeve Korean Feminine Mini Dress. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-60",
+      "slug": "willoe-puff-top-wanita-katun-bolong-sabrina-puff-s",
+      "number": "60",
+      "name": "Willoe Puff Top Wanita Katun Bolong Sabrina Puff Sleeve Korean Feminine",
+      "category": "Atasan",
+      "colorway": "Black",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv6gmgd4vtoocb",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv6gmgd4vtoocb",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv6gmgd4vtoocb",
+      "shopee_url": "https://shopee.co.id/product/1937886628/46671306376",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Maroon"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zte-mv6c48nnk36277",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zti-mv6c48nnlhqib9",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv6c48nnmway71"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Katun Premium Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Willoe Puff Top Wanita Katun Bolong Sabrina Puff Sleeve Korean Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-61",
+      "slug": "chely-one-set-wanita-tanktop-celana-pendek-combed-",
+      "number": "61",
+      "name": "Chely One Set Wanita Tanktop Celana Pendek Combed Spandex Renda Pita Korean Style",
+      "category": "Pakaian Tidur & Piyama",
+      "colorway": "Navy",
+      "price": 245000,
+      "tag_price": "Rp 245rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztp-mv6gvkmyn7ka23",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztp-mv6gvkmyn7ka23",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztp-mv6gvkmyn7ka23",
+      "shopee_url": "https://shopee.co.id/product/1937886628/46621266484",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Navy",
+        "Violet",
+        "White",
+        "Blue-422"
+      ],
+      "color_images": {
+        "Navy": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6hdi06kv0q11",
+        "Violet": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6hdlye9mh25d",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv6hdzih4ow855",
+        "Blue-422": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6helo77lkyd1"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Chely One Set Wanita Tanktop Celana Pendek Combed Spandex Renda Pita Korean Style. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-62",
+      "slug": "tatiana-vest-wanita-chinos-premium-pleated-front-k",
+      "number": "62",
+      "name": "Tatiana Vest Wanita Chinos Premium Pleated Front Kancing Kerah Korean Style Feminine",
+      "category": "Jaket, Mantel, & Rompi",
+      "colorway": "Deep Brown",
+      "price": 285000,
+      "tag_price": "Rp 285rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv5z0k4l9uki49",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv5z0k4l9uki49",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztj-mv5z0k4l9uki49",
+      "shopee_url": "https://shopee.co.id/product/1937886628/46571292276",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Deep Brown",
+        "Smoke",
+        "Pinky Blush",
+        "Butter Yellow",
+        "White",
+        "Black"
+      ],
+      "color_images": {
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv5vgulg29dy71",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81zth-mv5vgulg3nye3e",
+        "Pinky Blush": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv5vgulg52iu05",
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv5vgulg6h3ab7",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv5vgulg7vnq84",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv5z5949gumb96"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Tatiana Vest Wanita Chinos Premium Pleated Front Kancing Kerah Korean Style Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-63",
+      "slug": "celana-balon-airflow-gumi-korean-style-feminine-pa",
+      "number": "63",
+      "name": "Celana Balon Airflow Gumi Korean Style Feminine Pants Wanita Freesize Adjustable Waist",
+      "category": "Bawahan Muslim Wanita",
+      "colorway": "White",
+      "price": 235000,
+      "tag_price": "Rp 235rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztm-mvc1zezfc0ega8",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztm-mvc1zezfc0ega8",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztm-mvc1zezfc0ega8",
+      "shopee_url": "https://shopee.co.id/product/1937886628/46371482117",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "White",
+        "Black",
+        "Milo",
+        "Cream",
+        "Olive"
+      ],
+      "color_images": {
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zth-mvc2c6cdytqd7d",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvc2c9hm6nt3d7",
+        "Milo": "https://cf.shopee.co.id/file/id-11134207-81ztp-mvc2cfupwirp71",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81ztn-mvc2k94d2dxlc7",
+        "Olive": "https://cf.shopee.co.id/file/id-11134207-81ztf-mvc2e8vzjugy97"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Celana Balon Airflow Gumi Korean Style Feminine Pants Wanita Freesize Adjustable Waist. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-64",
+      "slug": "short-pants-flap-chinos-korean-style-feminine-cela",
+      "number": "64",
+      "name": "Short Pants Flap Chinos Korean Style Feminine Celana Pendek Wanita High Waist Prime Chinos Freesize",
+      "category": "Celana Pendek",
+      "colorway": "White",
+      "price": 185000,
+      "tag_price": "Rp 185rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mvbyg7x6aqrsc4",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mvbyg7x6aqrsc4",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mvbyg7x6aqrsc4",
+      "shopee_url": "https://shopee.co.id/product/1937886628/46221432272",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "White",
+        "Black",
+        "Smoke",
+        "Deep Brown"
+      ],
+      "color_images": {
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztp-mvbyr93t4ydda5",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztd-mvbyrhlqadc718",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81ztn-mvbyrll1179ge1",
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81ztq-mvbyrp9p0a2xaf"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Short Pants Flap Chinos Korean Style Feminine Celana Pendek Wanita High Waist Prime Chinos Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-65",
+      "slug": "popline-one-set-wanita-satin-silk-ruffle-blouse-ce",
+      "number": "65",
+      "name": "Popline One Set Wanita Satin Silk Ruffle Blouse Celana Pendek Korean Style Feminine",
+      "category": "Set",
+      "colorway": "Burgundy",
+      "price": 348000,
+      "tag_price": "Rp 348rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztf-mv6aq6723chw0c",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztf-mv6aq6723chw0c",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztf-mv6aq6723chw0c",
+      "shopee_url": "https://shopee.co.id/product/1937886628/46171307754",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Burgundy",
+        "Dusty Pink",
+        "Black",
+        "White"
+      ],
+      "color_images": {
+        "Burgundy": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6b5jxhqb6169",
+        "Dusty Pink": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6b5q3r1pu09e",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zti-mv6b67l4tmo37f",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zti-mv6b6awie4g21d"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Popline One Set Wanita Satin Silk Ruffle Blouse Celana Pendek Korean Style Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-66",
+      "slug": "clau-vest-chinos-wanita-premium-korean-style-femin",
+      "number": "66",
+      "name": "Clau Vest Chinos Wanita Premium Korean Style Feminine Vest Elegan",
+      "category": "Jaket, Mantel, & Rompi",
+      "colorway": "White",
+      "price": 285000,
+      "tag_price": "Rp 285rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134207-81ztl-mvhx3b4epk3q9b",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134207-81ztl-mvhx3b4epk3q9b",
+      "side_img": "https://cf.shopee.co.id/file/id-11134207-81ztl-mvhx3b4epk3q9b",
+      "shopee_url": "https://shopee.co.id/product/1937886628/45321101041",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "White",
+        "Butter Yellow",
+        "Pinky Blush",
+        "Deep Brown",
+        "Maroon",
+        "Smoke",
+        "Black"
+      ],
+      "color_images": {
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv1ufqw25h50ec",
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81zti-mv1ufqw0o3k75b",
+        "Pinky Blush": "https://cf.shopee.co.id/file/id-11134207-81zti-mv1ufqw0pi4n27",
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv1ufqw0qwp30d",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv1ufqw0sb9jb3",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81zth-mv1ufqw0tptz4b",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv1ufqw0v4efbb"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Clau Vest Chinos Wanita Premium Korean Style Feminine Vest Elegan. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-67",
+      "slug": "amora-sabrina-dress-wanita-long-rib-knit-premium-k",
+      "number": "67",
+      "name": "Amora Sabrina Dress Wanita Long Rib Knit Premium Korean Style Elegant Midi Dress",
+      "category": "Dress",
+      "colorway": "Cherry Red",
+      "price": 290000,
+      "tag_price": "Rp 290rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztc-mv3odjkzrrpgd7",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztc-mv3odjkzrrpgd7",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztc-mv3odjkzrrpgd7",
+      "shopee_url": "https://shopee.co.id/product/1937886628/45171197477",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Cherry Red",
+        "Choco",
+        "Emerald",
+        "Hitam",
+        "Cream",
+        "Maroon",
+        "Matcha",
+        "Teal"
+      ],
+      "color_images": {
+        "Cherry Red": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv3no6rla03n61",
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv3no6rlbeo34f",
+        "Emerald": "https://cf.shopee.co.id/file/id-11134207-81zti-mv3no6rlct8jdd",
+        "Hitam": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv3no6rle7sz00",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv3no6rlfmdfbb",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81zte-mv3ok614934656",
+        "Matcha": "https://cf.shopee.co.id/file/id-11134207-81zti-mv3ok613mm0z35",
+        "Teal": "https://cf.shopee.co.id/file/id-11134207-81zte-mv3ok613o0lf79"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Amora Sabrina Dress Wanita Long Rib Knit Premium Korean Style Elegant Midi Dress. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-68",
+      "slug": "gladyn-top-wanita-chinos-premium-kerah-shanghai-tu",
+      "number": "68",
+      "name": "Gladyn Top Wanita Chinos Premium Kerah Shanghai Tulip Sleeve Korean Elegant",
+      "category": "Atasan",
+      "colorway": "Deep Brown",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zto-mv6bzmolwpvnc2",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zto-mv6bzmolwpvnc2",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zto-mv6bzmolwpvnc2",
+      "shopee_url": "https://shopee.co.id/product/1937886628/44971299395",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Deep Brown",
+        "Smoke",
+        "Pinky Blush",
+        "Butter Yellow",
+        "Black",
+        "White",
+        "Maroon"
+      ],
+      "color_images": {
+        "Deep Brown": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6bd5rsoo3o77",
+        "Smoke": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6bd5rsq2o4ea",
+        "Pinky Blush": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv6bd5rsrh8k1b",
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv6bd5rssvt013",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv6bd5rsuadg5c",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv6c48nqg16r79",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81zte-mv6c48nniolmd2"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Prime Chinos Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Gladyn Top Wanita Chinos Premium Kerah Shanghai Tulip Sleeve Korean Elegant. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-69",
+      "slug": "gina-kebaya-kutu-baru-wanita-katun-bolong-renda-ka",
+      "number": "69",
+      "name": "Gina Kebaya Kutu Baru Wanita Katun Bolong Renda Kancing Gold Mutiara Feminine",
+      "category": "Kain",
+      "colorway": "Black",
+      "price": 265000,
+      "tag_price": "Rp 265rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6ilhlmu3nl09",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6ilhlmu3nl09",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6ilhlmu3nl09",
+      "shopee_url": "https://shopee.co.id/product/1937886628/44436545489",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Maroon"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6iogpze1vl69",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv6iogq1rqiy50",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81zti-mv6iogq1t53eec"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Katun Premium Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Gina Kebaya Kutu Baru Wanita Katun Bolong Renda Kancing Gold Mutiara Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-70",
+      "slug": "lauren-asymetri-blouse-rajut-stripe-wanita-batwing",
+      "number": "70",
+      "name": "Lauren Asymetri Blouse Rajut Stripe Wanita Batwing Korean Style Feminine Top",
+      "category": "Sweater & Cardigan",
+      "colorway": "Black",
+      "price": 280000,
+      "tag_price": "Rp 280rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv530caihmvd5d",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv530caihmvd5d",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv530caihmvd5d",
+      "shopee_url": "https://shopee.co.id/product/1937886628/44436504316",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Grey",
+        "Brown",
+        "Maroon"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv52gatb2olj0f",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv52gatb435zef",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81zte-mv52gatb5hqf3e",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv52gatb6wavad"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Lauren Asymetri Blouse Rajut Stripe Wanita Batwing Korean Style Feminine Top. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-71",
+      "slug": "flavia-one-set-wanita-prime-scuba-ruffle-top-rok-k",
+      "number": "71",
+      "name": "Flavia One Set Wanita Prime Scuba Ruffle Top Rok Korean Feminine Elegant Setelan",
+      "category": "Set",
+      "colorway": "Black",
+      "price": 348000,
+      "tag_price": "Rp 348rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv6n06dis3rb48",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv6n06dis3rb48",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv6n06dis3rb48",
+      "shopee_url": "https://shopee.co.id/product/1937886628/43936537026",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Maroon",
+        "Cream",
+        "Pink",
+        "Emerald"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6mbjeku8083c",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zte-mv6mbjekvmko01",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv6mbjekx15468",
+        "Cream": "https://cf.shopee.co.id/file/id-11134207-81ztl-mv6mbjekyfpk0d",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv6n9int9ceg7a",
+        "Emerald": "https://cf.shopee.co.id/file/id-11134207-81ztc-mv6n9inrqk95be"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Flavia One Set Wanita Prime Scuba Ruffle Top Rok Korean Feminine Elegant Setelan. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-72",
+      "slug": "kimberly-top-wanita-polkadot-puff-sleeve-ruffle-wa",
+      "number": "72",
+      "name": "Kimberly Top Wanita Polkadot Puff Sleeve Ruffle Waist Tie Korean Feminine Blouse",
+      "category": "Atasan",
+      "colorway": "Black",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztg-mv6kvs869bev70",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztg-mv6kvs869bev70",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztg-mv6kvs869bev70",
+      "shopee_url": "https://shopee.co.id/product/1937886628/43836536936",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Butter Yellow",
+        "Pink"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv6jrncq134188",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6jrncq2hoh8a",
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81zto-mv6jrncq3w8xda",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6jrncq5atd81"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Kimberly Top Wanita Polkadot Puff Sleeve Ruffle Waist Tie Korean Feminine Blouse. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-73",
+      "slug": "leia-kebaya-wanita-katun-bolong-motif-floral-renda",
+      "number": "73",
+      "name": "Leia Kebaya Wanita Katun Bolong Motif Floral Renda V Neck Korean Feminine Blouse",
+      "category": "Kain",
+      "colorway": "Black",
+      "price": 265000,
+      "tag_price": "Rp 265rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6jfuv9mbd21f",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6jfuv9mbd21f",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6jfuv9mbd21f",
+      "shopee_url": "https://shopee.co.id/product/1937886628/42636556301",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "White",
+        "Maroon"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6iogq1xcsq4b",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztj-mv6iogq1yrd6de",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81zth-mv6iogq205xm36"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Katun Premium Halus",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Leia Kebaya Wanita Katun Bolong Motif Floral Renda V Neck Korean Feminine Blouse. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-74",
+      "slug": "arlo-short-pants-korean-style-feminine-celana-pend",
+      "number": "74",
+      "name": "Arlo Short Pants Korean Style Feminine Celana Pendek Wanita Semiwool Elegant Belt Freesize",
+      "category": "Celana Pendek",
+      "colorway": "Choco",
+      "price": 185000,
+      "tag_price": "Rp 185rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mvbzugjmrdoia8",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mvbzugjmrdoia8",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mvbzugjmrdoia8",
+      "shopee_url": "https://shopee.co.id/product/1937886628/40936645047",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Choco",
+        "Black",
+        "White",
+        "Brown",
+        "Grey"
+      ],
+      "color_images": {
+        "Choco": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvbzz1uy6hhm22",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztl-mvbzz4p90hza71",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81ztj-mvbzzb77t342f5",
+        "Brown": "https://cf.shopee.co.id/file/id-11134207-81ztq-mvbzzmvw1amg5e",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztg-mvbzzsryf8qx00"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Semiwool Premium",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Arlo Short Pants Korean Style Feminine Celana Pendek Wanita Semiwool Elegant Belt Freesize. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-75",
+      "slug": "giva-off-shoulder-knit-top-wanita-rajut-elastis-ko",
+      "number": "75",
+      "name": "Giva Off Shoulder Knit Top Wanita Rajut Elastis Korean Style Feminine Blouse",
+      "category": "Sweater & Cardigan",
+      "colorway": "Black",
+      "price": 280000,
+      "tag_price": "Rp 280rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv3qakzkh91i20",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv3qakzkh91i20",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztn-mv3qakzkh91i20",
+      "shopee_url": "https://shopee.co.id/product/1937886628/40786537127",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Black",
+        "Broken White",
+        "Coffe",
+        "Maroon",
+        "Grey",
+        "Biru",
+        "Navy",
+        "Pink"
+      ],
+      "color_images": {
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81zto-mv3ok613wg03c8",
+        "Broken White": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv3ok613xukj41",
+        "Coffe": "https://cf.shopee.co.id/file/id-11134207-81ztg-mv3ok613z94z02",
+        "Maroon": "https://cf.shopee.co.id/file/id-11134207-81zti-mv3qh2ywnhfp65",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81zti-mv3qh2yvej9md5",
+        "Biru": "https://cf.shopee.co.id/file/id-11134207-81ztf-mv3qh2yvfxu2a3",
+        "Navy": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv3qh2yvhcei6c",
+        "Pink": "https://cf.shopee.co.id/file/id-11134207-81ztq-mv3qh2yviqyy4f"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Rajut Halus Lembut",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Giva Off Shoulder Knit Top Wanita Rajut Elastis Korean Style Feminine Blouse. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-76",
+      "slug": "popuri-longsleeve-pajama-wanita-one-set-saluria-st",
+      "number": "76",
+      "name": "Popuri Longsleeve Pajama Wanita One Set Saluria Stripe Korean Style Feminine",
+      "category": "Pakaian Tidur & Piyama",
+      "colorway": "Dusty Pink",
+      "price": 245000,
+      "tag_price": "Rp 245rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6ish4s2iva7c",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6ish4s2iva7c",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81zte-mv6ish4s2iva7c",
+      "shopee_url": "https://shopee.co.id/product/1937886628/40386589987",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Dusty Pink",
+        "Blue-422",
+        "Black",
+        "Grey"
+      ],
+      "color_images": {
+        "Dusty Pink": "https://cf.shopee.co.id/file/id-11134207-81zte-mv6j05sh4ao837",
+        "Blue-422": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv6j09572kn886",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztn-mv6j0ctodgchd7",
+        "Grey": "https://cf.shopee.co.id/file/id-11134207-81ztd-mv6j0ge89tzb33"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Popuri Longsleeve Pajama Wanita One Set Saluria Stripe Korean Style Feminine. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    },
+    {
+      "id": "prod-77",
+      "slug": "orson-tube-top-wanita-polkadot-fringe-rumbai-smock",
+      "number": "77",
+      "name": "Orson Tube Top Wanita Polkadot Fringe Rumbai Smock Back Korean Feminine Top",
+      "category": "Atasan",
+      "colorway": "Butter Yellow",
+      "price": 195000,
+      "tag_price": "Rp 195rb",
+      "front_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6lk1slhyx695",
+      "catalog_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6lk1slhyx695",
+      "side_img": "https://cf.shopee.co.id/file/id-11134201-81ztk-mv6lk1slhyx695",
+      "shopee_url": "https://shopee.co.id/product/1937886628/28497034946",
+      "on_rack": false,
+      "is_new": true,
+      "colors": [
+        "Butter Yellow",
+        "Black",
+        "Heavly Pink",
+        "White"
+      ],
+      "color_images": {
+        "Butter Yellow": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv6lowbrp8uh41",
+        "Black": "https://cf.shopee.co.id/file/id-11134207-81ztk-mv6lowbrmfpi9a",
+        "Heavly Pink": "https://cf.shopee.co.id/file/id-11134207-81ztp-mv6lowbrnu9y28",
+        "White": "https://cf.shopee.co.id/file/id-11134207-81zti-mv6lowbrp8ue57"
+      },
+      "sizes": [
+        "All Size (Fit to L)"
+      ],
+      "fabric": "Kain Pilihan Berkualitas",
+      "fit": "",
+      "care_note": "",
+      "description": "Koleksi resmi Orson Tube Top Wanita Polkadot Fringe Rumbai Smock Back Korean Feminine Top. Potongan nyaman dan anggun khas HEY JOEY!. Tersedia di Shopee."
+    }
+  ]
+}

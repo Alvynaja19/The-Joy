@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-lilac: #DFCCFF;
+  --color-brand-pink: #F068A8;
+  --color-brand-bg: #FAF7FF;
+  --color-brand-lilac-soft: #EFE5FF;
+  --color-brand-pink-dark: #D6458B;
+  --color-brand-ink: #241734;
+  --color-brand-muted: #6B5B7B;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+body {
+  background-color: var(--color-brand-bg);
+  color: var(--color-brand-ink);
+  margin: 0;
+}

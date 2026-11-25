@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" fill="none">
+  <rect width="600" height="760" fill="#EFE5FF"/>
+  <rect x="44" y="44" width="512" height="672" fill="#FFFFFF" stroke="#241734" stroke-width="1.5" opacity="0.75"/>
+  <!-- Olive Cardigan Open Layer over Oatmeal Tee -->
+  <path d="M242 135 L300 156 L358 135 L414 162 L448 308 L404 320 L382 226 L380 392 H220 L218 226 L196 320 L152 308 L186 162 Z" fill="#5A634C" stroke="#25271F" stroke-width="2.2" stroke-linejoin="round"/>
+  <!-- Inner Oatmeal Crewneck Layer -->
+  <path d="M262 136 C280 158 320 158 338 136 L330 392 H270 Z" fill="#E4DEC9" stroke="#25271F" stroke-width="1.8"/>
+  <!-- Wide Ivory Linen Trouser -->
+  <path d="M224 374 H376 L396 654 H312 L300 472 L288 654 H204 Z" fill="#DDD7C8" stroke="#25271F" stroke-width="2.2" stroke-linejoin="round"/>
+  <line x1="258" y1="392" x2="246" y2="634" stroke="#25271F" stroke-width="1.2" opacity="0.35"/>
+  <line x1="342" y1="392" x2="354" y2="634" stroke="#25271F" stroke-width="1.2" opacity="0.35"/>
+  <!-- Shoes -->
+  <path d="M214 654 H276 L280 672 C280 678 264 682 244 682 C220 682 208 676 214 654 Z" fill="#25271F"/>
+  <path d="M324 654 H386 L392 672 C392 678 376 682 356 682 C332 682 320 676 324 654 Z" fill="#25271F"/>
+</svg>

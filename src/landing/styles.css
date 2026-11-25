@@ -1,0 +1,53 @@
+@font-face {
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("./fonts/josefin-sans-300.woff2") format("woff2");
+}
+
+.hey-joey-root {
+  --hj-bg: #FAF7FF;
+  --hj-surface: #FFFFFF;
+  --hj-surface-alt: #EFE5FF;
+  --hj-lilac: #DFCCFF;
+  --hj-ink: #241734;
+  --hj-ink-muted: #6B5B7B;
+  --hj-accent: #D6458B;
+  --hj-accent-light: #F068A8;
+  --hj-border: #DFCCFF;
+
+  font-family: "DM Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background-color: var(--hj-bg);
+  color: var(--hj-ink);
+  color-scheme: light;
+}
+
+.hey-joey-root .hey-joey-logo-font {
+  font-family: "Josefin Sans", "Manrope", sans-serif;
+}
+
+.hey-joey-root h1,
+.hey-joey-root h2,
+.hey-joey-root h3,
+.hey-joey-root .font-display {
+  font-family: "Manrope", "DM Sans", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.hey-joey-root section[id] {
+  scroll-margin-top: 84px;
+}
+
+.hey-joey-root :is(a, button, input, [tabindex]):focus-visible {
+  outline: 2px solid var(--hj-ink);
+  outline-offset: 3px;
+}
+
+.hey-joey-root .no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hey-joey-root .no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

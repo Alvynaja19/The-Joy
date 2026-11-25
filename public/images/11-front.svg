@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" fill="#FFFFFF"/>
+  <ellipse cx="200" cy="442" rx="105" ry="12" fill="#25271F" fill-opacity="0.06"/>
+  <!-- Wide Leg Trousers -->
+  <path d="M132 82 H268 L286 420 H212 L200 218 L188 420 H114 Z" fill="#E6E1D3" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Waistband -->
+  <rect x="132" y="82" width="136" height="24" fill="#DCD6C5" stroke="#25271F" stroke-width="2"/>
+  <!-- Belt Loops -->
+  <rect x="148" y="80" width="6" height="28" fill="#E6E1D3" stroke="#25271F" stroke-width="1.5"/>
+  <rect x="197" y="80" width="6" height="28" fill="#E6E1D3" stroke="#25271F" stroke-width="1.5"/>
+  <rect x="246" y="80" width="6" height="28" fill="#E6E1D3" stroke="#25271F" stroke-width="1.5"/>
+  <!-- Button & Fly Stitch -->
+  <circle cx="200" cy="94" r="4" fill="#25271F"/>
+  <path d="M200 106 V178 C200 185 192 190 188 190" stroke="#25271F" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- Double Front Pleats -->
+  <line x1="164" y1="106" x2="152" y2="395" stroke="#25271F" stroke-width="1.2" opacity="0.4"/>
+  <line x1="176" y1="106" x2="170" y2="210" stroke="#25271F" stroke-width="1" opacity="0.25"/>
+  <line x1="236" y1="106" x2="248" y2="395" stroke="#25271F" stroke-width="1.2" opacity="0.4"/>
+  <line x1="224" y1="106" x2="230" y2="210" stroke="#25271F" stroke-width="1" opacity="0.25"/>
+  <!-- Side Slant Pockets -->
+  <path d="M132 114 C144 134 146 156 130 174" stroke="#25271F" stroke-width="1.5"/>
+  <path d="M268 114 C256 134 254 156 270 174" stroke="#25271F" stroke-width="1.5"/>
+  <!-- Folded Hem Cuffs -->
+  <line x1="115" y1="406" x2="188" y2="406" stroke="#25271F" stroke-width="1.4" opacity="0.5"/>
+  <line x1="212" y1="406" x2="285" y2="406" stroke="#25271F" stroke-width="1.4" opacity="0.5"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" fill="#F1EFE8"/>
+  <ellipse cx="200" cy="422" rx="115" ry="13" fill="#25271F" fill-opacity="0.06"/>
+  <!-- Sleeves -->
+  <path d="M126 108 L56 236 L94 254 L136 168 Z" fill="#DED7C5" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M274 108 L344 236 L306 254 L264 168 Z" fill="#DED7C5" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Rib Cuffs -->
+  <path d="M56 236 L94 254 L86 270 L48 252 Z" fill="#CFC6B1" stroke="#25271F" stroke-width="2"/>
+  <path d="M344 236 L306 254 L314 270 L352 252 Z" fill="#CFC6B1" stroke="#25271F" stroke-width="2"/>
+  <!-- Crewneck Body -->
+  <path d="M158 92 C175 114 225 114 242 92 L274 108 L268 386 L132 386 L126 108 Z" fill="#E4DEC9" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Ribbed Collar & V-Gusset -->
+  <path d="M158 92 C175 118 225 118 242 92 C225 104 175 104 158 92 Z" fill="#CFC6B1" stroke="#25271F" stroke-width="2"/>
+  <path d="M188 112 L200 132 L212 112" stroke="#25271F" stroke-width="1.8" stroke-linejoin="round"/>
+  <!-- Raglan Stitch Curves -->
+  <path d="M158 96 C152 130 142 152 128 176" stroke="#25271F" stroke-width="1.3" stroke-dasharray="3 3" opacity="0.6"/>
+  <path d="M242 96 C248 130 258 152 272 176" stroke="#25271F" stroke-width="1.3" stroke-dasharray="3 3" opacity="0.6"/>
+  <!-- Bottom Waist Rib -->
+  <rect x="132" y="362" width="136" height="24" fill="#CFC6B1" stroke="#25271F" stroke-width="2"/>
+</svg>

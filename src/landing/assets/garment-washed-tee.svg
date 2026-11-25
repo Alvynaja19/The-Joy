@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" fill="#F1EFE8"/>
+  <ellipse cx="200" cy="422" rx="115" ry="13" fill="#25271F" fill-opacity="0.06"/>
+  <!-- Boxy Heavyweight Tee Body & Drop Shoulder Sleeves -->
+  <path d="M158 96 C175 112 225 112 242 96 L296 116 L342 192 L294 218 L272 182 L272 390 L128 390 L128 182 L106 218 L58 192 L104 116 Z" fill="#3B3D36" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Neck Collar Rib -->
+  <path d="M158 96 C175 118 225 118 242 96 C225 104 175 104 158 96 Z" fill="#2B2D27" stroke="#25271F" stroke-width="2"/>
+  <path d="M150 100 C172 128 228 128 250 100" stroke="#F8F7F3" stroke-width="1" opacity="0.25"/>
+  <!-- Drop Shoulder Seam Lines -->
+  <line x1="128" y1="182" x2="104" y2="116" stroke="#25271F" stroke-width="1.5" opacity="0.6"/>
+  <line x1="272" y1="182" x2="296" y2="116" stroke="#25271F" stroke-width="1.5" opacity="0.6"/>
+  <!-- Twin Needle Hem Stitch -->
+  <line x1="128" y1="378" x2="272" y2="378" stroke="#F8F7F3" stroke-width="1" stroke-dasharray="3 3" opacity="0.35"/>
+  <!-- Minimal Chest Pocket -->
+  <path d="M222 172 H256 V206 C256 210 253 213 249 213 H229 C225 213 222 210 222 206 Z" fill="#34362F" stroke="#25271F" stroke-width="1.6"/>
+  <!-- Subtle Woven Care Tag -->
+  <rect x="184" y="106" width="32" height="8" fill="#D5D2C6"/>
+</svg>

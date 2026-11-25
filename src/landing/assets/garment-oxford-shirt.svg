@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" fill="#F1EFE8"/>
+  <ellipse cx="200" cy="426" rx="108" ry="12" fill="#25271F" fill-opacity="0.06"/>
+  <!-- Sleeves -->
+  <path d="M122 108 L54 246 L90 264 L130 168 Z" fill="#D8DFD4" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M278 108 L346 246 L310 264 L270 168 Z" fill="#D8DFD4" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Oxford Body -->
+  <path d="M164 86 L200 100 L236 86 L278 108 L270 392 C240 406 160 406 130 392 L122 108 Z" fill="#E4EAE0" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Button-down Collar -->
+  <path d="M164 86 L152 128 L192 114 L200 100 Z" fill="#D2DBD0" stroke="#25271F" stroke-width="1.8" stroke-linejoin="round"/>
+  <path d="M236 86 L248 128 L208 114 L200 100 Z" fill="#D2DBD0" stroke="#25271F" stroke-width="1.8" stroke-linejoin="round"/>
+  <!-- Center Placket -->
+  <rect x="193" y="102" width="14" height="296" fill="#D8DFD4" stroke="#25271F" stroke-width="1.5"/>
+  <circle cx="200" cy="144" r="3" fill="#25271F"/>
+  <circle cx="200" cy="196" r="3" fill="#25271F"/>
+  <circle cx="200" cy="248" r="3" fill="#25271F"/>
+  <circle cx="200" cy="300" r="3" fill="#25271F"/>
+  <circle cx="200" cy="352" r="3" fill="#25271F"/>
+  <!-- Chest Pocket -->
+  <path d="M222 158 H258 V196 L240 206 L222 196 Z" fill="#D8DFD4" stroke="#25271F" stroke-width="1.6"/>
+</svg>

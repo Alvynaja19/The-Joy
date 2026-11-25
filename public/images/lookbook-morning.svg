@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" fill="none">
+  <rect width="600" height="760" fill="#EFE5FF"/>
+  <!-- Architectural Studio Backdrop Panel -->
+  <rect x="44" y="44" width="512" height="672" fill="#FFFFFF" stroke="#241734" stroke-width="1.5" opacity="0.7"/>
+  <!-- Minimalist Sun / Daylight Window Shadow -->
+  <polygon points="340,44 556,44 556,360 220,260" fill="#FAF7FF" opacity="0.75"/>
+  <!-- Outfit Set: Oxford Shirt Top -->
+  <path d="M245 135 L300 154 L355 135 L412 162 L442 292 L396 306 L380 228 L374 378 H226 L220 228 L204 306 L158 292 L188 162 Z" fill="#E4EAE0" stroke="#25271F" stroke-width="2.2" stroke-linejoin="round"/>
+  <path d="M245 135 L234 176 L284 162 L300 154 Z" fill="#D0D9CD" stroke="#25271F" stroke-width="1.8"/>
+  <path d="M355 135 L366 176 L316 162 L300 154 Z" fill="#D0D9CD" stroke="#25271F" stroke-width="1.8"/>
+  <line x1="300" y1="154" x2="300" y2="378" stroke="#25271F" stroke-width="1.8"/>
+  <!-- Outfit Set: Pleated Wide-Leg Trouser -->
+  <path d="M222 362 H378 L398 648 H312 L300 462 L288 648 H202 Z" fill="#25271F" stroke="#25271F" stroke-width="2.2" stroke-linejoin="round"/>
+  <!-- Subtle trouser crease highlights -->
+  <line x1="256" y1="382" x2="244" y2="628" stroke="#F8F7F3" stroke-width="1.2" opacity="0.28"/>
+  <line x1="344" y1="382" x2="356" y2="628" stroke="#F8F7F3" stroke-width="1.2" opacity="0.28"/>
+  <!-- Minimalist Canvas Tote on Shoulder -->
+  <path d="M372 166 C398 166 410 218 408 290" stroke="#25271F" stroke-width="2.2" fill="none"/>
+  <rect x="378" y="290" width="94" height="114" fill="#DCD6C5" stroke="#25271F" stroke-width="2"/>
+  <line x1="396" y1="322" x2="454" y2="322" stroke="#25271F" stroke-width="1.5" opacity="0.5"/>
+  <!-- Minimalist Loafers Base -->
+  <path d="M214 648 H274 L278 666 C278 672 266 676 244 676 C220 676 208 670 214 648 Z" fill="#4A3C31" stroke="#25271F" stroke-width="1.8"/>
+  <path d="M326 648 H386 L392 666 C392 672 378 676 356 676 C332 676 322 670 326 648 Z" fill="#4A3C31" stroke="#25271F" stroke-width="1.8"/>
+</svg>

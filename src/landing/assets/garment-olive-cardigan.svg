@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" fill="#F1EFE8"/>
+  <!-- Soft studio shadow -->
+  <ellipse cx="200" cy="430" rx="110" ry="14" fill="#25271F" fill-opacity="0.06"/>
+  <!-- Left & Right Sleeves -->
+  <path d="M118 112 L52 248 L88 264 L132 168 Z" fill="#5A634C" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M282 112 L348 248 L312 264 L268 168 Z" fill="#5A634C" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Ribbed cuffs -->
+  <path d="M52 248 L88 264 L81 278 L45 262 Z" fill="#4A523E" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M348 248 L312 264 L319 278 L355 262 Z" fill="#4A523E" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Cardigan Main Body -->
+  <path d="M118 112 L162 94 L200 185 L238 94 L282 112 L274 398 L126 398 Z" fill="#636D54" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- V-Neck Placket & Collar Ribbing -->
+  <path d="M162 94 L200 185 L200 398" stroke="#25271F" stroke-width="2" stroke-linecap="round"/>
+  <path d="M238 94 L200 185" stroke="#25271F" stroke-width="2" stroke-linecap="round"/>
+  <path d="M154 98 L194 190 L194 398" stroke="#25271F" stroke-width="1.2" stroke-dasharray="3 3" opacity="0.5"/>
+  <!-- Bottom Hem Rib -->
+  <rect x="126" y="378" width="148" height="20" fill="#4A523E" stroke="#25271F" stroke-width="2"/>
+  <!-- Patch Pockets -->
+  <path d="M138 290 H182 V345 C182 350 178 354 173 354 H147 C142 354 138 350 138 345 Z" fill="#5A634C" stroke="#25271F" stroke-width="1.8"/>
+  <path d="M218 290 H262 V345 C262 350 258 354 253 354 H227 C222 354 218 350 218 345 Z" fill="#5A634C" stroke="#25271F" stroke-width="1.8"/>
+  <!-- Horn Buttons -->
+  <circle cx="200" cy="212" r="4.5" fill="#25271F"/>
+  <circle cx="200" cy="252" r="4.5" fill="#25271F"/>
+  <circle cx="200" cy="292" r="4.5" fill="#25271F"/>
+  <circle cx="200" cy="332" r="4.5" fill="#25271F"/>
+  <!-- Knit Vertical Texture Lines -->
+  <line x1="150" y1="140" x2="150" y2="275" stroke="#25271F" stroke-width="1" opacity="0.15"/>
+  <line x1="250" y1="140" x2="250" y2="275" stroke="#25271F" stroke-width="1" opacity="0.15"/>
+  <!-- Inner Neck Label -->
+  <rect x="184" y="102" width="32" height="10" rx="1" fill="#F8F7F3" stroke="#25271F" stroke-width="1.2"/>
+</svg>

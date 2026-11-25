@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" fill="none">
+  <rect width="400" height="500" fill="#FFFFFF"/>
+  <ellipse cx="200" cy="432" rx="115" ry="13" fill="#25271F" fill-opacity="0.06"/>
+  <!-- Sleeves -->
+  <path d="M114 110 L46 254 L88 270 L126 172 Z" fill="#6F7462" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M286 110 L354 254 L312 270 L274 172 Z" fill="#6F7462" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Utility Chore Jacket Body -->
+  <path d="M162 88 L200 100 L238 88 L286 110 L278 400 L122 400 L114 110 Z" fill="#7C826D" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Point Collar -->
+  <path d="M162 88 L142 126 L186 118 L200 100 Z" fill="#686D5B" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M238 88 L258 126 L214 118 L200 100 Z" fill="#686D5B" stroke="#25271F" stroke-width="2" stroke-linejoin="round"/>
+  <!-- Center Placket & Snap Buttons -->
+  <line x1="200" y1="100" x2="200" y2="400" stroke="#25271F" stroke-width="2"/>
+  <circle cx="200" cy="148" r="4" fill="#25271F"/>
+  <circle cx="200" cy="206" r="4" fill="#25271F"/>
+  <circle cx="200" cy="264" r="4" fill="#25271F"/>
+  <circle cx="200" cy="322" r="4" fill="#25271F"/>
+  <circle cx="200" cy="376" r="4" fill="#25271F"/>
+  <!-- Chest Utility Pocket & Lower Pockets -->
+  <rect x="220" y="162" width="44" height="52" rx="2" fill="#6F7462" stroke="#25271F" stroke-width="1.8"/>
+  <path d="M220 176 H264" stroke="#25271F" stroke-width="1.5"/>
+  <path d="M136 276 H184 V344 C184 348 180 352 176 352 H144 C140 352 136 348 136 344 Z" fill="#6F7462" stroke="#25271F" stroke-width="1.8"/>
+  <path d="M216 276 H264 V344 C264 348 260 352 256 352 H224 C220 352 216 348 216 344 Z" fill="#6F7462" stroke="#25271F" stroke-width="1.8"/>
+</svg>
