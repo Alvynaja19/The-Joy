@@ -106,14 +106,14 @@ Mohon info ketersediaan stok dan total ongkos kirim ya. Terima kasih!`;
 
       {/* Sticky Header with Single-Layer Glass Accent (R-10) */}
       <header className="sticky top-0 z-40 w-full bg-brand-bg/90 backdrop-blur-md border-b border-brand-lilac">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-10 h-16 sm:h-20 flex items-center justify-between gap-4">
-          <div className="flex items-center gap-3">
+        <div className="max-w-7xl mx-auto px-3 sm:px-6 lg:px-10 h-16 sm:h-20 flex items-center justify-between gap-2 sm:gap-4">
+          <div className="flex items-center gap-2 sm:gap-3">
             <button
               type="button"
               onClick={() => setMobileMenuOpen((prev) => !prev)}
               aria-expanded={mobileMenuOpen}
               aria-controls="mobile-nav-panel"
-              className="md:hidden inline-flex items-center gap-2 min-h-[44px] px-3 text-xs font-semibold uppercase tracking-[0.12em] text-brand-ink border border-brand-ink/25 rounded-md hover:bg-brand-lilac-soft transition-colors"
+              className="md:hidden inline-flex items-center gap-1.5 sm:gap-2 min-h-[44px] px-2.5 sm:px-3 text-xs font-semibold uppercase tracking-[0.12em] text-brand-ink border border-brand-ink/25 rounded-md hover:bg-brand-lilac-soft transition-colors"
             >
               {mobileMenuOpen ? (
                 <X className="w-4 h-4" strokeWidth={1.75} aria-hidden="true" />
@@ -128,7 +128,7 @@ Mohon info ketersediaan stok dan total ongkos kirim ya. Terima kasih!`;
               aria-label={brandName}
               className="inline-flex items-center min-h-[44px] px-1 rounded-md transition-opacity hover:opacity-85"
             >
-              <BrandLogo brandName={brandName} tone="pink-dark" size="md" />
+              <BrandLogo brandName={brandName} tone="pink-dark" size="md" className="text-[17px] sm:text-[26px]" />
             </a>
           </div>
 
@@ -152,7 +152,7 @@ Mohon info ketersediaan stok dan total ongkos kirim ya. Terima kasih!`;
               type="button"
               onClick={onOpenBag}
               aria-label={`${drawer.title} (${totalCount})`}
-              className="inline-flex items-center gap-2 min-h-[44px] px-4 text-xs sm:text-sm font-semibold uppercase tracking-[0.08em] text-brand-ink border border-brand-ink rounded-full hover:bg-brand-ink hover:text-brand-lilac-soft transition-colors"
+              className="inline-flex items-center gap-1.5 sm:gap-2 min-h-[44px] px-3 sm:px-4 text-xs sm:text-sm font-semibold uppercase tracking-[0.08em] text-brand-ink border border-brand-ink rounded-full hover:bg-brand-ink hover:text-brand-lilac-soft transition-colors"
             >
               <ShoppingBag className="w-4 h-4" strokeWidth={1.75} aria-hidden="true" />
               <span>{navbarConfig.bag_button_label}</span>

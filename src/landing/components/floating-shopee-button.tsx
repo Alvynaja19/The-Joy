@@ -19,7 +19,7 @@ export function FloatingShopeeButton({
       target="_blank"
       rel="noopener noreferrer"
       aria-label={label}
-      className="fixed bottom-6 right-6 z-40 inline-flex items-center gap-2.5 px-4 sm:px-5 py-3 sm:py-3.5 bg-[#EE4D2D] hover:bg-[#d73d1f] text-white text-xs sm:text-sm font-bold rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 active:scale-95 group focus:outline-hidden focus:ring-2 focus:ring-[#EE4D2D] focus:ring-offset-2"
+      className="fixed bottom-4 right-4 sm:bottom-6 sm:right-6 z-40 inline-flex items-center gap-2 sm:gap-2.5 px-3.5 sm:px-5 py-2.5 sm:py-3.5 bg-[#EE4D2D] hover:bg-[#d73d1f] text-white text-xs sm:text-sm font-bold rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 active:scale-95 group focus:outline-hidden focus:ring-2 focus:ring-[#EE4D2D] focus:ring-offset-2"
     >
       <svg
         className="w-5 h-5 shrink-0 fill-current transition-transform group-hover:-translate-y-0.5 duration-200"

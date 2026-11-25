@@ -134,18 +134,18 @@ export function Lookbook({
                     </div>
                   </div>
 
-                  <div className="flex items-center gap-2 shrink-0">
+                  <div className="flex items-center gap-2 w-full sm:w-auto shrink-0">
                     <button
                       type="button"
                       onClick={() => onInspectProduct(piece)}
-                      className="min-h-[44px] px-4 py-2 text-xs font-semibold text-brand-ink bg-brand-bg border border-brand-ink/20 rounded-lg hover:bg-brand-lilac-soft transition-colors"
+                      className="flex-1 sm:flex-none inline-flex items-center justify-center min-h-[44px] px-4 py-2 text-xs font-semibold text-brand-ink bg-brand-bg border border-brand-ink/20 rounded-lg hover:bg-brand-lilac-soft transition-colors"
                     >
                       <span>{lookbookConfig.detail_button_label}</span>
                     </button>
                     <button
                       type="button"
                       onClick={() => onAddToBag(piece, piece.sizes[1] || piece.sizes[0] || "M")}
-                      className="min-h-[44px] px-4 py-2 text-xs font-semibold text-white bg-brand-ink rounded-lg hover:bg-brand-pink-dark transition-colors"
+                      className="flex-1 sm:flex-none inline-flex items-center justify-center min-h-[44px] px-4 py-2 text-xs font-semibold text-white bg-brand-ink rounded-lg hover:bg-brand-pink-dark transition-colors"
                     >
                       <span>{lookbookConfig.add_button_label}</span>
                     </button>

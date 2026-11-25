@@ -1,10 +1,16 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import contentData from "../../data/content.json";
 import "./globals.css";
 
 export const metadata: Metadata = {
   title: contentData.site_settings.meta.title,
   description: contentData.site_settings.meta.description,
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
 };
 
 export default function RootLayout({

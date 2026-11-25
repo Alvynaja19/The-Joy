@@ -110,11 +110,11 @@ export function ProductDetailModal({
       role="dialog"
       aria-modal="true"
       aria-labelledby="product-modal-title"
-      className="fixed inset-0 z-50 flex items-center justify-center p-4 sm:p-6 bg-brand-ink/65"
+      className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-6 bg-brand-ink/65"
       onClick={onClose}
     >
       <div
-        className="relative w-full max-w-4xl max-h-[92vh] overflow-hidden rounded-2xl sm:rounded-3xl bg-brand-bg border border-brand-lilac shadow-2xl flex flex-col md:flex-row"
+        className="relative w-full max-w-4xl max-h-[92vh] overflow-y-auto md:overflow-hidden rounded-2xl sm:rounded-3xl bg-brand-bg border border-brand-lilac shadow-2xl flex flex-col md:flex-row"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Tombol Tutup */}
@@ -123,14 +123,14 @@ export function ProductDetailModal({
           type="button"
           onClick={onClose}
           aria-label="Tutup"
-          className="absolute top-4 right-4 z-30 inline-flex items-center justify-center min-h-[44px] min-w-[44px] rounded-full bg-white hover:bg-brand-lilac-soft text-brand-ink border border-brand-ink/20 shadow-xs transition-colors"
+          className="absolute top-3 right-3 sm:top-4 sm:right-4 z-30 inline-flex items-center justify-center min-h-[44px] min-w-[44px] rounded-full bg-white/95 hover:bg-brand-lilac-soft text-brand-ink border border-brand-ink/20 shadow-xs transition-colors"
         >
           <X className="w-5 h-5" strokeWidth={2} />
         </button>
 
         {/* Kolom Kiri: Preview Gambar Tampak Depan memakai tag <img> standar */}
-        <div className="md:w-1/2 bg-white p-6 sm:p-8 flex flex-col items-center justify-center relative border-b md:border-b-0 md:border-r border-brand-lilac">
-          <div className="absolute top-5 left-5 flex items-center gap-2">
+        <div className="md:w-1/2 bg-white p-4 sm:p-8 flex flex-col items-center justify-center relative border-b md:border-b-0 md:border-r border-brand-lilac shrink-0">
+          <div className="absolute top-4 left-4 sm:top-5 sm:left-5 flex items-center gap-2">
             <span className="px-2.5 py-1 text-[11px] font-mono font-bold uppercase tracking-wider bg-brand-bg text-brand-ink border border-brand-lilac rounded-md flex items-center gap-1">
               <span>{modalConfig.item_prefix}</span>
               <span>{product.number}</span>
@@ -140,7 +140,7 @@ export function ProductDetailModal({
             </span>
           </div>
 
-          <div className="w-full h-[280px] sm:h-[380px] flex items-center justify-center pt-6">
+          <div className="w-full h-[220px] sm:h-[300px] md:h-[380px] flex items-center justify-center pt-5 sm:pt-6">
             <img
               src={activeImage}
               alt={product.name}
@@ -148,13 +148,13 @@ export function ProductDetailModal({
             />
           </div>
 
-          <p className="mt-4 text-[11px] font-medium text-brand-muted tracking-wide text-center">
+          <p className="mt-3 sm:mt-4 text-[11px] font-medium text-brand-muted tracking-wide text-center">
             {modalConfig.photo_caption}
           </p>
         </div>
 
         {/* Kolom Kanan: Detail Informasi & Form Varian */}
-        <div className="md:w-1/2 p-6 sm:p-8 overflow-y-auto flex flex-col justify-between gap-6">
+        <div className="md:w-1/2 p-5 sm:p-8 md:overflow-y-auto flex flex-col justify-between gap-6">
           <div className="space-y-5">
             <div className="pr-10">
               <p className="text-[11px] font-semibold tracking-[0.16em] uppercase text-brand-muted flex items-center gap-1.5">

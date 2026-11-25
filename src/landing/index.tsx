@@ -82,7 +82,7 @@ export function Landing({ data = defaultContent }: LandingProps) {
   };
 
   return (
-    <div ref={rootRef} id="top" className="hey-joey-root min-h-screen flex flex-col">
+    <div ref={rootRef} id="top" className="hey-joey-root min-h-screen flex flex-col overflow-x-hidden">
       <a
         href="#rack"
         className="sr-only focus:not-sr-only focus:fixed focus:top-3 focus:left-3 focus:z-50 focus:px-4 focus:py-2 focus:bg-brand-ink focus:text-brand-lilac-soft focus:rounded-md focus:text-sm focus:font-semibold"

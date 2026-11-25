@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState, type KeyboardEvent, type MouseEvent } from "react";
+import { useEffect, useRef, useState, type KeyboardEvent, type MouseEvent, type TouchEvent } from "react";
 import { ArrowLeft, ArrowRight, ArrowUpRight } from "lucide-react";
 import { motion } from "framer-motion";
 import {
@@ -66,7 +66,7 @@ function RackGarmentItem({
       <motion.div
         animate={{ y: isLifted ? -24 : 0 }}
         transition={fluidSpring}
-        className="relative w-full h-[350px] flex justify-center items-start overflow-visible"
+        className="relative w-full h-[270px] sm:h-[310px] md:h-[350px] flex justify-center items-start overflow-visible"
       >
         {/* Tampak Depan (Front View) */}
         <motion.div
@@ -88,7 +88,7 @@ function RackGarmentItem({
             <img
               src={item.rack_img || item.front_img}
               alt={item.name}
-              className="h-[340px] w-auto max-w-none object-contain object-top origin-top drop-shadow-xl"
+              className="h-[260px] sm:h-[300px] md:h-[340px] w-auto max-w-none object-contain object-top origin-top drop-shadow-xl"
             />
           </div>
         </motion.div>
@@ -113,7 +113,7 @@ function RackGarmentItem({
             <img
               src={item.side_img || item.front_img}
               alt={item.name}
-              className="h-[340px] w-auto max-w-none object-contain object-top origin-top drop-shadow-md"
+              className="h-[260px] sm:h-[300px] md:h-[340px] w-auto max-w-none object-contain object-top origin-top drop-shadow-md"
             />
           </div>
         </motion.div>
@@ -269,6 +269,32 @@ export function Hero({
     isMouseDownRef.current = false;
   };
 
+  const handleContainerTouchStart = (e: TouchEvent<HTMLDivElement>) => {
+    if (!railContainerRef.current) return;
+    const touch = e.touches[0];
+    if (!touch) return;
+    isMouseDownRef.current = true;
+    hasDraggedRef.current = false;
+    startXRef.current = touch.pageX - railContainerRef.current.offsetLeft;
+    scrollStartRef.current = railContainerRef.current.scrollLeft;
+  };
+
+  const handleContainerTouchMove = (e: TouchEvent<HTMLDivElement>) => {
+    if (!isMouseDownRef.current || !railContainerRef.current) return;
+    const touch = e.touches[0];
+    if (!touch) return;
+    const x = touch.pageX - railContainerRef.current.offsetLeft;
+    const walk = (x - startXRef.current) * 1.2;
+    if (Math.abs(walk) > 4) {
+      hasDraggedRef.current = true;
+      railContainerRef.current.scrollLeft = scrollStartRef.current - walk;
+    }
+  };
+
+  const handleContainerTouchEnd = () => {
+    isMouseDownRef.current = false;
+  };
+
   return (
     <section
       id="rack"
@@ -328,6 +354,9 @@ export function Hero({
               handleContainerMouseUp();
               handleGarmentHoverLeave();
             }}
+            onTouchStart={handleContainerTouchStart}
+            onTouchMove={handleContainerTouchMove}
+            onTouchEnd={handleContainerTouchEnd}
             className="w-full -mt-[6px] px-8 sm:px-12 pt-1 pb-6 overflow-x-auto md:overflow-x-visible no-scrollbar cursor-grab active:cursor-grabbing"
           >
             <div
@@ -377,17 +406,17 @@ export function Hero({
                 <ArrowLeft className="w-4 h-4" strokeWidth={1.75} aria-hidden="true" />
               </button>
 
-              <div className="text-center min-w-[200px] sm:min-w-[280px]">
+              <div className="text-center min-w-[180px] sm:min-w-[280px]">
                 <p className="text-[11px] font-semibold tracking-[0.16em] uppercase text-brand-muted flex items-center justify-center gap-1.5">
                   <span>{activeProduct.category}</span>
                   <span aria-hidden="true">·</span>
                   <span>{activeProduct.colorway}</span>
                 </p>
-                <div className="flex flex-wrap items-baseline justify-center gap-2 mt-0.5">
-                  <h2 className="text-xl sm:text-2xl font-extrabold tracking-tight text-brand-ink">
+                <div className="flex flex-wrap items-baseline justify-center gap-1.5 sm:gap-2 mt-0.5">
+                  <h2 className="text-lg sm:text-2xl font-extrabold tracking-tight text-brand-ink">
                     {activeProduct.name}
                   </h2>
-                  <span className="font-semibold text-brand-muted text-lg sm:text-xl">
+                  <span className="font-semibold text-brand-muted text-base sm:text-xl">
                     {formatRupiahAmount(parseRupiahAmount(activeProduct.price))}
                   </span>
                 </div>
