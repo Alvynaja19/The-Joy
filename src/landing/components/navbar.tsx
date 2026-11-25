@@ -215,7 +215,7 @@ Mohon info ketersediaan stok dan total ongkos kirim ya. Terima kasih!`;
               </button>
             </div>
 
-            <div className="flex-1 overflow-y-auto px-6 py-6">
+            <div className="flex-1 overflow-y-auto overflow-x-hidden px-4 sm:px-6 py-6">
               {cart.length === 0 ? (
                 <div className="h-full flex flex-col items-center justify-center text-center py-12 px-4 border border-dashed border-brand-lilac rounded-xl bg-white">
                   <ShoppingBag className="w-10 h-10 text-brand-muted mb-4" strokeWidth={1.4} />
@@ -238,7 +238,7 @@ Mohon info ketersediaan stok dan total ongkos kirim ya. Terima kasih!`;
                     return (
                       <li
                         key={`${item.product.id}-${item.size}`}
-                        className="flex gap-4 p-3 rounded-lg bg-white border border-brand-lilac"
+                        className="flex gap-3 sm:gap-4 p-3 rounded-lg bg-white border border-brand-lilac overflow-hidden"
                       >
                         <div className="w-20 h-24 shrink-0 rounded bg-white p-1 overflow-hidden border border-brand-lilac/60">
                           {item.product.front_img && (
@@ -251,11 +251,14 @@ Mohon info ketersediaan stok dan total ongkos kirim ya. Terima kasih!`;
                         </div>
                         <div className="flex-1 min-w-0 flex flex-col justify-between">
                           <div className="flex items-start justify-between gap-2">
-                            <div>
-                              <h3 className="text-sm font-bold text-brand-ink truncate">
+                            <div className="flex-1 min-w-0">
+                              <h3
+                                className="text-sm font-bold text-brand-ink line-clamp-2 break-words"
+                                title={item.product.name}
+                              >
                                 {item.product.name}
                               </h3>
-                              <p className="text-xs text-brand-muted flex flex-wrap items-center gap-1">
+                              <p className="text-xs text-brand-muted flex flex-wrap items-center gap-1 mt-0.5 truncate break-words">
                                 <span>{item.product.colorway}</span>
                                 <span aria-hidden="true">·</span>
                                 <span>{drawer.size_prefix}</span>
@@ -266,7 +269,7 @@ Mohon info ketersediaan stok dan total ongkos kirim ya. Terima kasih!`;
                               type="button"
                               onClick={() => onRemoveItem(item.product.id, item.size)}
                               aria-label={`Hapus ${item.product.name}`}
-                              className="inline-flex items-center justify-center min-h-[44px] min-w-[44px] -mt-2 -mr-2 text-brand-muted hover:text-brand-ink"
+                              className="inline-flex items-center justify-center min-h-[44px] min-w-[44px] -mt-2 -mr-2 text-brand-muted hover:text-brand-ink shrink-0"
                             >
                               <Trash2 className="w-4 h-4" strokeWidth={1.6} />
                             </button>
